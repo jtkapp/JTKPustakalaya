@@ -1,0 +1,293 @@
+{
+ "version": 1,
+ "updated": "2026-11-25",
+ "sections": [
+  {
+   "id": "stotra",
+   "title": "स्तोत्र",
+   "emoji": "📜",
+   "collections": [
+    {
+     "id": "ganesha",
+     "title": "गणेशपाठसङ्ग्रह",
+     "emoji": "🐘",
+     "group": "देवता",
+     "count": 165,
+     "bytes": 1198036
+    },
+    {
+     "id": "shiva",
+     "title": "शिवपाठसङ्ग्रह",
+     "emoji": "🔱",
+     "group": "देवता",
+     "count": 855,
+     "bytes": 12193457
+    },
+    {
+     "id": "vishhnu",
+     "title": "विष्णुपाठसङ्ग्रह",
+     "emoji": "🪷",
+     "group": "देवता",
+     "count": 477,
+     "bytes": 6383550
+    },
+    {
+     "id": "raama",
+     "title": "रामपाठसङ्ग्रह",
+     "emoji": "🏹",
+     "group": "देवता",
+     "count": 131,
+     "bytes": 7369344
+    },
+    {
+     "id": "devii",
+     "title": "देवीपाठसङ्ग्रह",
+     "emoji": "🌺",
+     "group": "देवता",
+     "count": 505,
+     "bytes": 7399661
+    },
+    {
+     "id": "hanumaana",
+     "title": "हनुमान्‌पाठसङ्ग्रह",
+     "emoji": "🚩",
+     "group": "देवता",
+     "count": 56,
+     "bytes": 630210
+    },
+    {
+     "id": "subrahmanya",
+     "title": "कार्तिकेयपाठसङ्ग्रह",
+     "emoji": "🦚",
+     "group": "देवता",
+     "count": 36,
+     "bytes": 606403
+    },
+    {
+     "id": "gurudev",
+     "title": "गुरुपाठसङ्ग्रह",
+     "emoji": "🙏",
+     "group": "देवता",
+     "count": 203,
+     "bytes": 2573248
+    },
+    {
+     "id": "deities_misc",
+     "title": "अन्य देवताका पाठ",
+     "emoji": "🕉️",
+     "group": "देवता",
+     "count": 59,
+     "bytes": 788957
+    },
+    {
+     "id": "sahasranama",
+     "title": "सहस्रनामसङ्ग्रह",
+     "emoji": "📿",
+     "group": "नाम तथा नामावली",
+     "count": 241,
+     "bytes": 14055155
+    },
+    {
+     "id": "sahasranamavali",
+     "title": "सहस्रनामावलीसङ्ग्रह",
+     "emoji": "📿",
+     "group": "नाम तथा नामावली",
+     "count": 186,
+     "bytes": 10743008
+    },
+    {
+     "id": "ashtottarashatanama",
+     "title": "अष्टोत्तरशतनामसङ्ग्रह",
+     "emoji": "📿",
+     "group": "नाम तथा नामावली",
+     "count": 225,
+     "bytes": 2014203
+    },
+    {
+     "id": "ashtottarashatanamavali",
+     "title": "अष्टोत्तरशतनामावली",
+     "emoji": "📿",
+     "group": "नाम तथा नामावली",
+     "count": 366,
+     "bytes": 2928899
+    },
+    {
+     "id": "shati",
+     "title": "शतनामसङ्ग्रह",
+     "emoji": "📿",
+     "group": "नाम तथा नामावली",
+     "count": 17,
+     "bytes": 1044363
+    },
+    {
+     "id": "shatinamavali",
+     "title": "शतनामावलीसङ्ग्रह",
+     "emoji": "📿",
+     "group": "नाम तथा नामावली",
+     "count": 26,
+     "bytes": 570291
+    },
+    {
+     "id": "namavali",
+     "title": "नामावलीसङ्ग्रह",
+     "emoji": "📿",
+     "group": "नाम तथा नामावली",
+     "count": 85,
+     "bytes": 2561115
+    },
+    {
+     "id": "kavacha",
+     "title": "कवचसङ्ग्रह",
+     "emoji": "🛡️",
+     "group": "कवच, मन्त्र र स्तव",
+     "count": 323,
+     "bytes": 3610269
+    },
+    {
+     "id": "mantra",
+     "title": "मन्त्रसङ्ग्रह",
+     "emoji": "🔔",
+     "group": "कवच, मन्त्र र स्तव",
+     "count": 143,
+     "bytes": 1412893
+    },
+    {
+     "id": "hridaya",
+     "title": "हृदयसङ्ग्रह",
+     "emoji": "💠",
+     "group": "कवच, मन्त्र र स्तव",
+     "count": 51,
+     "bytes": 896567
+    },
+    {
+     "id": "stavaraja",
+     "title": "स्तवराजसङ्ग्रह",
+     "emoji": "👑",
+     "group": "कवच, मन्त्र र स्तव",
+     "count": 68,
+     "bytes": 1070609
+    },
+    {
+     "id": "ashtaka",
+     "title": "अष्टकसङ्ग्रह",
+     "emoji": "8️⃣",
+     "group": "काव्यरूप अनुसार",
+     "count": 883,
+     "bytes": 4756409
+    },
+    {
+     "id": "panchaka",
+     "title": "पञ्चकसङ्ग्रह",
+     "emoji": "5️⃣",
+     "group": "काव्यरूप अनुसार",
+     "count": 142,
+     "bytes": 557639
+    },
+    {
+     "id": "nava",
+     "title": "नवकसङ्ग्रह",
+     "emoji": "9️⃣",
+     "group": "काव्यरूप अनुसार",
+     "count": 51,
+     "bytes": 506098
+    },
+    {
+     "id": "shataka",
+     "title": "शतकसङ्ग्रह",
+     "emoji": "💯",
+     "group": "काव्यरूप अनुसार",
+     "count": 78,
+     "bytes": 4368415
+    },
+    {
+     "id": "lahari",
+     "title": "लहरीसङ्ग्रह",
+     "emoji": "🌊",
+     "group": "काव्यरूप अनुसार",
+     "count": 21,
+     "bytes": 801436
+    },
+    {
+     "id": "suprabhata",
+     "title": "सुप्रभातसङ्ग्रह",
+     "emoji": "🌅",
+     "group": "काव्यरूप अनुसार",
+     "count": 128,
+     "bytes": 1060045
+    },
+    {
+     "id": "veda",
+     "title": "वैदिक पाठसङ्ग्रह",
+     "emoji": "📜",
+     "group": "वेद, उपनिषद् र गीता",
+     "count": 70,
+     "bytes": 1766286
+    },
+    {
+     "id": "upanishhat",
+     "title": "उपनिषद्सङ्ग्रह",
+     "emoji": "🪔",
+     "group": "वेद, उपनिषद् र गीता",
+     "count": 244,
+     "bytes": 11227349
+    },
+    {
+     "id": "vedanta",
+     "title": "वेदान्तसङ्ग्रह",
+     "emoji": "🧘",
+     "group": "वेद, उपनिषद् र गीता",
+     "count": 97,
+     "bytes": 7437408
+    },
+    {
+     "id": "bhagavadgita",
+     "title": "भगवद्गीता-सङ्ग्रह",
+     "emoji": "📖",
+     "group": "वेद, उपनिषद् र गीता",
+     "count": 10,
+     "bytes": 2489590
+    },
+    {
+     "id": "giitaa",
+     "title": "गीतासङ्ग्रह",
+     "emoji": "📖",
+     "group": "वेद, उपनिषद् र गीता",
+     "count": 111,
+     "bytes": 7226291
+    },
+    {
+     "id": "stotra",
+     "title": "बृहत् स्तोत्रसङ्ग्रह",
+     "emoji": "📚",
+     "group": "अन्य सङ्ग्रह",
+     "count": 1485,
+     "bytes": 11352565
+    },
+    {
+     "id": "misc",
+     "title": "विविध पाठसङ्ग्रह",
+     "emoji": "🗂️",
+     "group": "अन्य सङ्ग्रह",
+     "count": 147,
+     "bytes": 6945544
+    },
+    {
+     "id": "sanskritgeet",
+     "title": "संस्कृतगीतसङ्ग्रह",
+     "emoji": "🎶",
+     "group": "अन्य सङ्ग्रह",
+     "count": 490,
+     "bytes": 1371664
+    },
+    {
+     "id": "kriti",
+     "title": "कृतिसङ्ग्रह",
+     "emoji": "🎵",
+     "group": "अन्य सङ्ग्रह",
+     "count": 11,
+     "bytes": 849458
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "bhagavadgita",
+ "title": "भगवद्गीता-सङ्ग्रह",
+ "count": 10,
+ "parts": [
+  {
+   "file": "part-01.json",
+   "bytes": 41950
+  },
+  {
+   "file": "part-02.json",
+   "bytes": 1233890
+  },
+  {
+   "file": "part-03.json",
+   "bytes": 591798
+  },
+  {
+   "file": "part-04.json",
+   "bytes": 425062
+  },
+  {
+   "file": "part-05.json",
+   "bytes": 196890
+  }
+ ],
+ "pathas": [
+  {
+   "id": "bhagavadgita-1",
+   "title": "भगवद्गीताष्टोत्तरम्",
+   "sub": "एकै खण्ड",
+   "tag": "गीता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhagavadgita-2",
+   "title": "भगवद्गीताऽष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "गीता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhagavadgita-3",
+   "title": "भगवद्गीता माहात्म्यं ध्यानमन्त्रं च",
+   "sub": "३७ श्लोक",
+   "tag": "गीता",
+   "n": 38,
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhagavadgita-4",
+   "title": "भगवद्गीतार्थसङ्ग्रहः",
+   "sub": "३२ श्लोक",
+   "tag": "गीता",
+   "n": 32,
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhagavadgita-5",
+   "title": "भगवद्गीता शाङ्करभाष्यम् (शङ्कराचार्यविरचितम्)",
+   "sub": "१८ श्लोक",
+   "tag": "गीता",
+   "n": 19,
+   "part": "part-02.json"
+  },
+  {
+   "id": "bhagavadgita-6",
+   "title": "भगवद्गीता सन्धिविग्रह अन्वयसहिता",
+   "sub": "३५ श्लोक",
+   "tag": "गीता",
+   "n": 35,
+   "part": "part-03.json"
+  },
+  {
+   "id": "bhagavadgita-7",
+   "title": "भगवद्गीता सन्धिविग्रहसहिता",
+   "sub": "३५ श्लोक",
+   "tag": "गीता",
+   "n": 35,
+   "part": "part-04.json"
+  },
+  {
+   "id": "bhagavadgita-8",
+   "title": "भगवद्गीतासारः",
+   "sub": "३० श्लोक",
+   "tag": "गीता",
+   "n": 31,
+   "part": "part-04.json"
+  },
+  {
+   "id": "bhagavadgita-9",
+   "title": "भगवद्गीतासारः (अग्निपुराणान्तर्गतः)",
+   "sub": "एकै खण्ड",
+   "tag": "गीता",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "bhagavadgita-10",
+   "title": "श्री हरि गीता हिन्दी",
+   "sub": "१३ श्लोक",
+   "tag": "हिन्दी",
+   "n": 14,
+   "part": "part-05.json"
+  }
+ ]
+}

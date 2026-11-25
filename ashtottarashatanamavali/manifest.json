@@ -1,0 +1,2965 @@
+{
+ "id": "ashtottarashatanamavali",
+ "title": "अष्टोत्तरशतनामावली",
+ "count": 366,
+ "parts": [
+  {
+   "file": "part-01.json",
+   "bytes": 453838
+  },
+  {
+   "file": "part-02.json",
+   "bytes": 456172
+  },
+  {
+   "file": "part-03.json",
+   "bytes": 450352
+  },
+  {
+   "file": "part-04.json",
+   "bytes": 447487
+  },
+  {
+   "file": "part-05.json",
+   "bytes": 450658
+  },
+  {
+   "file": "part-06.json",
+   "bytes": 454803
+  },
+  {
+   "file": "part-07.json",
+   "bytes": 215589
+  }
+ ],
+ "pathas": [
+  {
+   "id": "ashtottarashatanamavali-1",
+   "title": "अन्नपूर्णाष्टोत्तरशतनामावलिः (अन्नपूर्णायै शिवायै देव्यै)",
+   "sub": "१० नाम",
+   "tag": "अन्नपूर्णा",
+   "n": 11,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-2",
+   "title": "अग्न्यष्टोत्तरशतनामावलिः (साम्बदीक्षितेन सङ्कलितम्)",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-3",
+   "title": "अनन्तपद्मनाभाष्टोत्तरशतनामावलिः १",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-4",
+   "title": "अनन्तपद्मनाभाष्टोत्तरशतनामावली २",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-5",
+   "title": "ऋष्यष्टोत्तरशतनामानि",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-6",
+   "title": "किरातशास्तुः अष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-7",
+   "title": "कुबेराष्टोत्तरनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-8",
+   "title": "नागदेवताष्टोत्तरशतनामावलिः",
+   "sub": "११ नाम",
+   "tag": "अन्य देवता",
+   "n": 12,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-9",
+   "title": "नागराजाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-10",
+   "title": "पतञ्जल्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-11",
+   "title": "पार्श्वनाथाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-12",
+   "title": "ब्रह्माष्टोत्तरशतनामावलिः",
+   "sub": "६ नाम",
+   "tag": "अन्य देवता",
+   "n": 7,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-13",
+   "title": "माता अमृतानन्दमयी अष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-14",
+   "title": "मातृभूतेश्वराष्टोत्तरशतनामावलिः (रमणमहर्षी मातृ)",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-15",
+   "title": "मार्कण्डेयाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-16",
+   "title": "रामानुजाष्टोत्तरशतनामावलिः",
+   "sub": "६ नाम",
+   "tag": "अन्य देवता",
+   "n": 7,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-17",
+   "title": "वागीशमूर्ति अष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-18",
+   "title": "वास्तुपुरुषनामावलिः",
+   "sub": "५ नाम",
+   "tag": "अन्य देवता",
+   "n": 6,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-19",
+   "title": "विश्वकर्माष्टोत्तरशतनामावलिः २",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-20",
+   "title": "विश्वकर्माष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-21",
+   "title": "सुन्दरमूर्त्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "अन्य देवता",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-22",
+   "title": "धर्मशास्ताष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "अय्यप्पा",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-23",
+   "title": "धर्मशास्तुः अष्टोत्तरशतनामावलिः )महाशास्तृ अष्टोत्तरशतनामावलिः २, महाशास्त्रे नमः महादेवाय महादेवसुताय अव्ययाय)",
+   "sub": "एकै खण्ड",
+   "tag": "अय्यप्पा",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-24",
+   "title": "महाशास्तृअष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "अय्यप्पा",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-25",
+   "title": "हरिहरपुत्राष्टोत्तरशतनामावलिः १",
+   "sub": "एकै खण्ड",
+   "tag": "अय्यप्पा",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-26",
+   "title": "हरिहरपुत्राष्टोत्तरशतनामावलिः २",
+   "sub": "एकै खण्ड",
+   "tag": "अय्यप्पा",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-27",
+   "title": "कामाख्याष्टोत्तरशतनामावलिः",
+   "sub": "२ नाम",
+   "tag": "कामाक्षी",
+   "n": 3,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-28",
+   "title": "कामाक्ष्यष्टोत्तरशतनामावलिः १",
+   "sub": "एकै खण्ड",
+   "tag": "कामाक्षी",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-29",
+   "title": "कामाक्ष्यष्टोत्तरशतनामावलिः २",
+   "sub": "एकै खण्ड",
+   "tag": "कामाक्षी",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-30",
+   "title": "कार्तिकेयशताष्टनामावलिः (शिवरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "कार्तिकेय",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-31",
+   "title": "कार्तिकेयाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "कार्तिकेय",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-32",
+   "title": "षण्मुखाष्टोत्तरशतनामावलिः",
+   "sub": "४ नाम",
+   "tag": "कार्तिकेय",
+   "n": 5,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-33",
+   "title": "सुब्रह्मण्यषडक्षराष्टोत्तरशतनामावलिः १ (शरण्याय शर्वतनयाय)",
+   "sub": "एकै खण्ड",
+   "tag": "कार्तिकेय",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-34",
+   "title": "सुब्रह्मण्यषडक्षराष्टोत्तरशतनामावलिः २ (शरवणभवाय शरवणतेजसे)",
+   "sub": "एकै खण्ड",
+   "tag": "कार्तिकेय",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-35",
+   "title": "सुब्रह्मण्यसिद्धनामाष्टोत्तरशतनामावलिः (आत्मानन्दनाथ प्रणीतः)",
+   "sub": "एकै खण्ड",
+   "tag": "कार्तिकेय",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-36",
+   "title": "सुब्रह्मण्याष्टोत्तरशतनामावलिः १ स्कन्दाष्टोत्तरशतनामावलिः (स्कन्दाय)",
+   "sub": "११ नाम",
+   "tag": "कार्तिकेय",
+   "n": 12,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-37",
+   "title": "सुब्रह्मण्याष्टोत्तरशतनामावलिः २",
+   "sub": "एकै खण्ड",
+   "tag": "कार्तिकेय",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-38",
+   "title": "सुब्रह्मण्याष्टोत्तरशतनामावलिः ३ हस्तस्थितास्त्रायुध",
+   "sub": "एकै खण्ड",
+   "tag": "कार्तिकेय",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-39",
+   "title": "सुब्रह्मण्याष्टोत्तरशतनामावलिः ४",
+   "sub": "एकै खण्ड",
+   "tag": "कार्तिकेय",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-40",
+   "title": "स्कन्दशताष्टनामावलिः (शिवरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "कार्तिकेय",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-41",
+   "title": "स्कन्दाष्टोत्तरशतनामावलिः (महाभारतवनपर्वान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "कार्तिकेय",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-42",
+   "title": "कृष्णाष्टोत्तरशतनामावलिः १ (ब्रह्माण्डपुराणान्तर्गता शेषकृता श्रीकृष्णाय कमलानाथाय वासुदेवाय)",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-43",
+   "title": "कृष्णाष्टोत्तरशतनामावलिः २ प्रेमामृतरसायनाख्या",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-44",
+   "title": "गुरुवायुपुराधीश अथवा वातपुराष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-45",
+   "title": "गोपालशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-46",
+   "title": "गोपालाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-47",
+   "title": "पार्थसारथ्यष्टोत्तरशतनामावलिः",
+   "sub": "३ नाम",
+   "tag": "कृष्ण",
+   "n": 4,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-48",
+   "title": "राजगोपालाष्टोत्तरशतनामावलिः अथवा चम्पकारण्यनाथाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-49",
+   "title": "राधाकृष्णाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-50",
+   "title": "उच्छिष्टगणनाथ अष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-51",
+   "title": "गकारगणेशाष्टोत्तरशतनामावलिः (गणेश्वराय गणाध्यक्षाय गणत्रात्रे गणञ्जयाय)",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-52",
+   "title": "गणपतिगकाराष्टोत्तरशतनामावलिः (गकाररूपाय गम्बीजाय गणेशाय)",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-53",
+   "title": "गणेशदशोत्तरशतनामावलिः सङ्कष्टहर विकटमहागणपतिअष्टोत्तरशतनामावलिः (विघ्नेशाय विश्ववरदाय)",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-54",
+   "title": "गणेशाष्टोत्तरशतनामावलिः १ (यमप्रोक्तं मुद्गलपुराणान्तर्गतम् गणेशाय हेरम्बाय)",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-55",
+   "title": "गणेशाष्टोत्तरशतनामावलिः २ (विघ्नेशाय विश्ववरदाय)",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-56",
+   "title": "गणेशाष्टोत्तरशतनामावलिः ३ (गजाननाय गणाध्यक्षाय)",
+   "sub": "६ नाम",
+   "tag": "गणेश",
+   "n": 7,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-57",
+   "title": "गणेशाष्टोत्तरशतनामावलिः ४ (अकल्मषाय)",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-58",
+   "title": "गणेशाष्टोत्तरशतनामावलिः ५ (गणेश्वराय, गणक्रीडाय, महागणपतये, विश्वकर्त्रे)",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-59",
+   "title": "गणेशाष्टोत्तरशतनामावलिः ६ (इक्षुसागरमध्यस्थाय, निजलोकनिवासकृते, स्वानन्दभवनाधीशाय)",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-60",
+   "title": "वरदगणेशाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-61",
+   "title": "विघ्नेश्वराष्टोत्तरशतनामावलिः (विनायकाय विघ्नराजाय गौरीपुत्राय)",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-62",
+   "title": "विद्यागणेशाष्टोत्तरशतनामावलिः (महाशैवतन्त्रान्तर्गतम् विद्यागणपतये विघ्नहराय गजमुखाय अव्ययाय)",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-63",
+   "title": "सिद्धिगणेशाष्टोत्तरशतनामस्तोत्रम्",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-64",
+   "title": "सिद्धिविनायकाष्टोत्तरशतनामावलिः अथवा गणेशाष्टोत्तरशतनामावली (विनायकाय विघ्नराजाय)",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-65",
+   "title": "गायत्र्यष्टोत्तरशतनामावलिः",
+   "sub": "६ नाम",
+   "tag": "गायत्री",
+   "n": 7,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-66",
+   "title": "लक्ष्मणदेवाष्टोत्तरशतनामावली",
+   "sub": "११८ नाम",
+   "tag": "गुरु",
+   "n": 119,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-67",
+   "title": "अक्कलकोटस्वामी समर्थाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-68",
+   "title": "अभिनवविद्यातीर्थमहास्वामिनामष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-69",
+   "title": "अमृतानन्दमय्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-70",
+   "title": "गजाननमहाराजाष्टोत्तरशतनामावलि १ (शेगांवनिवासी)",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-71",
+   "title": "गुरु अष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-72",
+   "title": "गुर्वष्टोत्तरशतनामावलिस्तोत्रम् (गीतासार)",
+   "sub": "१५ नाम",
+   "tag": "गुरु",
+   "n": 16,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-73",
+   "title": "गौडपादाचार्याष्टोत्तरशतनामावलिः (बोधात्मानन्दविरचिता)",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-74",
+   "title": "गौराङ्गाष्टोत्तरशतनामावलिः (सार्वभौम भट्टाचार्यविरचिता)",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-75",
+   "title": "चन्द्रशेखरभारत्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-76",
+   "title": "चन्द्रशेखरेन्द्रसरस्वत्यष्टोत्तरशतनामावलिः महास्वामिपादोष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-77",
+   "title": "चन्द्रशेखरेन्द्राष्टोत्तरशतनामावलिः (मठ पाठ)",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-78",
+   "title": "जयेन्द्रसरस्वत्यष्टोत्तरशतनामावलिः",
+   "sub": "१६ नाम",
+   "tag": "गुरु",
+   "n": 16,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-79",
+   "title": "निम्बार्काष्टोत्तरशतनामावलिः (सदानन्दभट्टप्रणीता)",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-80",
+   "title": "प्रेमिकेन्द्रसद्गुर्वष्टोत्तरशतनामावलिः (त्र्यम्बकशर्मणा विरचिता)",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-81",
+   "title": "रमणाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-82",
+   "title": "राघवेन्द्राष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-83",
+   "title": "रामकृष्णाष्टोत्तरशतनामावलिः (त्र्यम्बकशर्मणा विरचिता)",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-84",
+   "title": "विद्यारण्याष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-85",
+   "title": "वेदव्यासाष्टोत्तरशतनामावलिः १ (वासुदेवाय जगन्नाथाय)",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-86",
+   "title": "वेदव्यासाष्टोत्तरशतनामावलिः २ (नारायणाय नराकाराय)",
+   "sub": "११ नाम",
+   "tag": "गुरु",
+   "n": 11,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-87",
+   "title": "वेदव्यासाष्टोत्तरशतनामावलिः ३ (वेदव्यासाय श्रुतिभर्ते)",
+   "sub": "११ नाम",
+   "tag": "गुरु",
+   "n": 12,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-88",
+   "title": "वेदव्यासाष्टोत्तरशतनामावलिः ४ (योगानन्दसरस्वतीविरचिता, वेदव्यासाय विष्णुरूपाय)",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-89",
+   "title": "वेदव्यासाष्टोत्तरशतनामावलिः ५ (श्रीकृष्णप्रेमीविरचिता, कृष्णद्वैपायनाय व्यासाय)",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-90",
+   "title": "वेदव्यासाष्टोत्तरशतनामावलिः ६ (व्यासाय द्वैपायनाय श्रेष्ठाय सत्यात्मने)",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-91",
+   "title": "वेदान्तदेशिकाष्टोत्तरशतनामावलिः १",
+   "sub": "४ नाम",
+   "tag": "गुरु",
+   "n": 5,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-92",
+   "title": "वेदान्तदेशिकाष्टोत्तरशतनामावलिः २",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-93",
+   "title": "व्यासाष्टोत्तरशतनामावलिः (नारायणकुलोद्भूताय नारायणपराय वराय)",
+   "sub": "३ नाम",
+   "tag": "गुरु",
+   "n": 4,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-94",
+   "title": "श्रीधरगुर्वाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-95",
+   "title": "सद्गुरुश्रीत्यागब्रह्माष्टोत्तरशतनामावलिः (पुष्पा श्रीवत्सेन विरचिता)",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-96",
+   "title": "सहजानन्दनामावलिः (भद्रेशदासस्वामिविरचिता)",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-97",
+   "title": "सुरेश्वराचार्याष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-98",
+   "title": "ज्ञानसम्बन्धस्वामिअष्टोत्तरशत्नामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-99",
+   "title": "तुलस्यष्टोत्तरशतनामावलिः १ (तुलस्यै पावन्यै पूज्यायै)",
+   "sub": "एकै खण्ड",
+   "tag": "तुलसी",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-100",
+   "title": "तुलस्यष्टोत्तरशतनामावलिः २",
+   "sub": "एकै खण्ड",
+   "tag": "तुलसी",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-101",
+   "title": "अनघदेवाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "दत्तात्रेय",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-102",
+   "title": "दत्तात्रेयाष्टोत्तरशतनामावलिः २ (अनसूयासुताय दत्ताय अत्रिपुत्राय महामुनये)",
+   "sub": "एकै खण्ड",
+   "tag": "दत्तात्रेय",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-103",
+   "title": "दत्तात्रेयाष्टोत्तरशतनामावली ५ (श्रीदत्ताय देवदत्ताय ब्रह्मदत्ताय)",
+   "sub": "११ नाम",
+   "tag": "दत्तात्रेय",
+   "n": 11,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-104",
+   "title": "ककारादिशतनामावलिः १ (मुण्डमालातन्त्रान्तर्गता करालवदनायै काल्यै कामिन्यै कमलायै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-105",
+   "title": "कमलाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-106",
+   "title": "कालिकाशतनामावलिः अथवा आद्याकालिकाशतनामावलिः ककारकूटघटितं (महानिर्वाणतन्त्रान्तर्गतम् काल्यै कराल्यै कल्याण्यै कलावत्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-107",
+   "title": "कालीशतनामावलिः २ कालीककारादिनामशताष्टकनामावलिः (काल्यै कपालिन्यै कान्तायै कामदायै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-108",
+   "title": "छिन्नमस्ताष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-109",
+   "title": "ताराशतनामावलिः १ (स्वर्णमालातन्त्रान्तर्गता तारिण्यै तरलायै तन्व्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-110",
+   "title": "ताराशतनामावलिः २ (बृहन्नीलतन्त्रान्तर्गता तारिण्यै तारसंयोगायै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-111",
+   "title": "त्रिपुरसुन्दरीशतनामावलिः (कालीविलासतन्त्रान्तर्गता)",
+   "sub": "२ नाम",
+   "tag": "दशमहाविद्या",
+   "n": 3,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-112",
+   "title": "देवीवैभवाश्चर्याष्टोत्तरशतदिव्यनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-113",
+   "title": "धूमावत्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-114",
+   "title": "बगलाष्टोत्तरशतनामावलिः १ (रुद्रयामलतन्त्रान्तर्गता ब्रह्मास्त्ररूपिणीदेवीमाताश्रीबगलामुख्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-115",
+   "title": "बगलाष्टोत्तरशतनामावलिः २ अथवा पीताम्बर्यष्टोत्तरशतनामावली (विष्णुयामलान्तर्गता बगलायै विष्णुवनितायै विष्णुशङ्करभामिन्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-116",
+   "title": "बगलाष्टोत्तरशतनामावलिः ३",
+   "sub": "१ नाम",
+   "tag": "दशमहाविद्या",
+   "n": 2,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-117",
+   "title": "बालात्रिपुरसुन्दरीअष्टोत्तरशतनामावलिः ३ (श्रीअणुरूपायै श्रीमहारूपायै श्रीज्योतिरूपायै श्रीमहेश्वर्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-118",
+   "title": "बालात्रिपुरसुन्दरी अष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-119",
+   "title": "बालाष्टोत्तरशतनामावलिः १ (कल्याणै नमः)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-120",
+   "title": "बालाष्टोत्तरशतनामावलिः २ (श्रीबालायै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-121",
+   "title": "बालाष्टोत्तरशतनामावलिः २ (श्रीबालायै नमः)",
+   "sub": "२ नाम",
+   "tag": "दशमहाविद्या",
+   "n": 3,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-122",
+   "title": "बालाष्टोत्तरशतनामावलिः ३ (अणुरूपायै नमः)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-123",
+   "title": "बालाष्टोत्तरशतनामावलिः ४ (कल्याण्यै त्रिपुरायै १)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-124",
+   "title": "बालाष्टोत्तरशतनामावलिः ५ (अम्बायै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-125",
+   "title": "भुवनेश्वर्यष्टोत्तरशतनामावलिः १ (महामायायै महाविद्यायै महायोगायै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-126",
+   "title": "भुवनेश्वर्यष्टोत्तरशतनामावलिः २ (रुद्रयामलान्तर्गता महासम्मोहिन्यै देव्यै सुन्दर्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-127",
+   "title": "भुवनेश्वर्यष्टोत्तरशतनामावली ३ (कालीविलासतन्त्रान्तर्गता आद्यायै भुवनाभव्यायै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-128",
+   "title": "भैरव्यष्टोत्तरशतनामावलिः अथवा त्रिपुरभैरव्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-129",
+   "title": "मातङ्ग्यष्टोत्तरशतनामावलिः १ (महामत्तमातङ्गिन्यै सिद्धिरूपायै योगिन्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-130",
+   "title": "राजराजेश्वर्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-131",
+   "title": "ललिताम्बिकादिव्याष्टोत्तरशतनामावलिः शिवकामसुन्दर्यम्बाष्टोत्तरशतनामावलिः च (मन्त्रराजकल्पान्तर्गता)",
+   "sub": "१६ नाम",
+   "tag": "दशमहाविद्या",
+   "n": 17,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-132",
+   "title": "ललितालकारादिअष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-133",
+   "title": "ललिताष्टोत्तरशतनामावलिः १ (रजताचलश‍ृंगाग्रमध्यस्थायै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-134",
+   "title": "ललिताष्टोत्तरशतनामावलिः २ (भूरूपसकलाधारायै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-135",
+   "title": "ललिताष्टोत्तरशतनामावलिः ३ (श्रीकामेश्वर्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-136",
+   "title": "ललिताष्टोत्तरशतनामावलिः ४ (शिवप्रियायै)",
+   "sub": "२१ नाम",
+   "tag": "दशमहाविद्या",
+   "n": 22,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-137",
+   "title": "श्रीवल्लीभुवनेश्वर्यष्टोत्तरशतनामावलिः (सद्योजात शङ्कराश्रमस्वामिविरचितम्)",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-138",
+   "title": "षोडशीअष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-139",
+   "title": "सौभाग्याष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "दशमहाविद्या",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-140",
+   "title": "कृष्णाष्टोत्तरशतनामावलिः ३ दशावतार कृकारादि",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-141",
+   "title": "दशावतार ककारादि कल्क्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-142",
+   "title": "दशावतार ककारादि कूर्माष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-143",
+   "title": "दशावतार नकारादि नरसिंहाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-144",
+   "title": "दशावतार बवर्णादि बुद्धाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-145",
+   "title": "दशावतार मकारादि मत्स्याष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-146",
+   "title": "दशावतार रकारादि परशुरामाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-147",
+   "title": "दशावतार रकारादि रामाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-148",
+   "title": "दशावतार वकारादि वराहाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-149",
+   "title": "दशावतार वकारादि वामनाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-150",
+   "title": "नृसिंहाष्टोत्तरशतनामावलिः १ (श्रीनृसिंहाय महासिंहाय दिव्यसिंहाय महाबलाय)",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-151",
+   "title": "नृसिंहाष्टोत्तरशतनामावलिः २ (ॐ नारसिंहाय तीक्ष्णदंष्ट्राय वज्रनखाय विष्णवे जिष्णवे)",
+   "sub": "१ नाम",
+   "tag": "दशावतार",
+   "n": 2,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-152",
+   "title": "नृसिंहाष्टोत्तरशतनामावलिः ३ (नृसिंहाय पुष्कराय कराळाय)",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-153",
+   "title": "नृसिंहाष्टोत्तरशतनामावलिः ४ (नारसिंहाय महासिंहाय दिव्यसिंहाय महाबलाय)",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-154",
+   "title": "परशुरामाष्टोत्तरनामावलिः पकारादि (कृष्णचन्द्रशास्त्रिणा विरचिता)",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-155",
+   "title": "भूवराहाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-156",
+   "title": "लक्ष्मीनृसिंहाष्टोत्तरशतनामावलिः (ब्रह्माण्डपुराणान्तर्गतम्)",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-157",
+   "title": "वराहाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "दशावतार",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-158",
+   "title": "अम्बिकाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-159",
+   "title": "आर्याष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-160",
+   "title": "कुमार्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-161",
+   "title": "चामुण्डेश्वर्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-162",
+   "title": "दुर्गाष्टोत्तरशतनामावलिः १ (विश्वसारतन्त्रार्गता सत्यै साध्व्यै भवप्रीतायै)",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-163",
+   "title": "दुर्गाष्टोत्तरशतनामावलिः २ (दुर्गायै शिवायै महाल्क्ष्मै)",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-164",
+   "title": "दुर्गाष्टोत्तरशतनामावलिः ३ (दुर्गायै दारिद्र्यशमन्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-165",
+   "title": "दुर्गाष्टोत्तरशतनामावलिः ४ (श्रियै उमायै भारत्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-166",
+   "title": "दुर्गाष्टोत्तरशतनामावलिः ५ (ब्राह्म्यै माहेश्वर्यै कौमार्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-167",
+   "title": "दुर्गाष्टोत्तरशतनामावलिः ६ (दुर्गायै कामकलायै कान्तायै)",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-168",
+   "title": "देव्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-169",
+   "title": "भगवत्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-170",
+   "title": "भद्राम्बिकाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-171",
+   "title": "मन्त्रसिद्धिप्रदमहादुर्गाशतनामावलिः (मुण्डमालातन्त्रान्तर्गता, दुर्गायै भवान्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-172",
+   "title": "महाचण्ड्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-173",
+   "title": "महिषासुरमर्दिन्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-174",
+   "title": "वागीश्वर्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-175",
+   "title": "इन्दिराष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-176",
+   "title": "कन्यकापरमेश्वर्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-03.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-177",
+   "title": "कावेर्यष्टोत्तरशतनामावलिः १",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-178",
+   "title": "कावेर्यष्टोत्तरशतनामावलिः २",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-179",
+   "title": "गङ्गाष्टोत्तरशतनामावलिः १ (गंगायै, विष्णुपादसंभूतायै)",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-180",
+   "title": "गङ्गाष्टोत्तरशतनामावलिः २ (गङ्गायै, महाभद्रायै)",
+   "sub": "६ नाम",
+   "tag": "देवी",
+   "n": 7,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-181",
+   "title": "गोदाष्टोत्तरशतनामावलिः",
+   "sub": "५ नाम",
+   "tag": "देवी",
+   "n": 6,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-182",
+   "title": "जानकी अष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-183",
+   "title": "ताम्रपर्ण्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-184",
+   "title": "देवसेनाष्टोत्तरशतनामावलिः १ (देवसेनायै देवलोकजनन्यै दिव्यसुन्दर्यै देवपूज्यायै)",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-185",
+   "title": "देवसेनाष्टोत्तरशतनामावलिः २ (देवसेनायै पीताम्बरायै उत्पलधारिण्यै ज्वालिन्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-186",
+   "title": "पद्मावत्यष्टोत्तरशतनामावली २",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-187",
+   "title": "पद्मावत्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-188",
+   "title": "महाबुद्धिदेव्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-189",
+   "title": "महासिद्धिदेव्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-190",
+   "title": "वल्ल्यष्टोत्तरशतनामावलिः २ (महावल्ल्यै श्यामतनवे सर्वाभरणभूषितायै)",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-191",
+   "title": "वल्ल्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-192",
+   "title": "वासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामावलिः १ (सौभाग्यजनन्यै)",
+   "sub": "३ नाम",
+   "tag": "देवी",
+   "n": 3,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-193",
+   "title": "वासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामावलिः २ (श्रीवासवाम्बायै)",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-194",
+   "title": "वासवीकन्यकापरमेश्वर्यष्टोत्तरशतनामावलिः ३ (अमलायै)",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-195",
+   "title": "शक्त्यष्टोत्तरशतदिव्यस्थानीयनामावलिः (मत्स्यपुराणान्तर्गतम्)",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-196",
+   "title": "शाकम्भर्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-197",
+   "title": "श‍ृङ्गेरिशारदाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-198",
+   "title": "संविदष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-199",
+   "title": "सरस्वत्यष्टोत्तरशतनामावलिः ४ अमृतवर्षिणी",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-200",
+   "title": "सुन्दरकुचाम्बाष्टोत्तरशतनामावलिः (तेजिनीवन माहात्म्यान्तर्गतम्)",
+   "sub": "६ नाम",
+   "tag": "देवी",
+   "n": 7,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-201",
+   "title": "इन्द्राक्ष्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "देवीका अन्य रूप",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-202",
+   "title": "प्रत्यङ्गिराष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "देवीका अन्य रूप",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-203",
+   "title": "महामार्यष्टोत्तरशतनामावलिः २ शीतलाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "देवीका अन्य रूप",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-204",
+   "title": "महामार्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "देवीका अन्य रूप",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-205",
+   "title": "महा वाराही अष्टोत्तरशतनामावली",
+   "sub": "११ नाम",
+   "tag": "देवीका अन्य रूप",
+   "n": 12,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-206",
+   "title": "मूकाम्बिकायाः अष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "देवीका अन्य रूप",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-207",
+   "title": "रङ्गनायिकाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "देवीका अन्य रूप",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-208",
+   "title": "सन्तोषीमातुरष्टोत्तरशतनामावलिः १ (सन्तोषजनन्यै मात्रे सर्वसम्पत्प्रदायिन्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "देवीका अन्य रूप",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-209",
+   "title": "सन्तोषीमातुरष्टोत्तरशतनामावलिः २ पार्वत्यष्टोत्तरशतनामावलिः (आद्यायै आर्यायै अभाव्यायै)",
+   "sub": "एकै खण्ड",
+   "tag": "देवीका अन्य रूप",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-210",
+   "title": "सन्तोषीमातुरष्टोत्तरशतनामावलिः ३ (श्रीदेव्यै नमः श्रीपदाराध्यायै शिवमङ्गलरूपिण्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "देवीका अन्य रूप",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-211",
+   "title": "अङ्गारकाष्टोत्तरशतनामावलिः मङ्गलाष्टोत्तरशतनामावलिः (महीसुताय महाभागाय)",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-212",
+   "title": "आदित्याष्टोत्तरनामावलिः अथवा सूर्याष्टोत्तरनामावलिः (भविष्यपुराणान्तर्गता)",
+   "sub": "२ नाम",
+   "tag": "नवग्रह",
+   "n": 3,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-213",
+   "title": "केतु अष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-214",
+   "title": "गुरु (ग्रह) अष्टोत्तरशतनामावलिः बृहस्पत्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-215",
+   "title": "चन्द्राष्टोत्तरशतनामावलिः २",
+   "sub": "६ नाम",
+   "tag": "नवग्रह",
+   "n": 7,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-216",
+   "title": "चन्द्राष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-217",
+   "title": "नवग्रहाष्टोत्तरशतनामावलिः १ समुच्चय (ग्रहनायकेभ्यो लोकसंस्तुतेभ्यो लोकसाक्षिभ्यो)",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-218",
+   "title": "नवग्रहाष्टोत्तरशतनामावलिः २ (भानवे हंसाय भास्कराय)",
+   "sub": "५ नाम",
+   "tag": "नवग्रह",
+   "n": 6,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-219",
+   "title": "बुधाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-220",
+   "title": "राहु अष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-221",
+   "title": "शनि अष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-222",
+   "title": "शुक्राष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-223",
+   "title": "सूर्याष्टोत्तरशतनामावलिः १ (अथर्वणरहस्यान्तर्गतम् अरुणाय शरण्याय)",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-224",
+   "title": "सूर्याष्टोत्तरशतनामावलिः २ अथवा सूर्यवरदनामावलिः (महाभारतान्तर्गतम् सूर्याय अर्यम्णे भगाय त्वष्ट्रे)",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-225",
+   "title": "सूर्याष्टोत्तरशतनामावलिः ३ (विश्वकर्मकृता नरसिंहपुराणान्तर्गता आदित्याय सवित्रे सूर्याय खगाय)",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-226",
+   "title": "अर्धनारीश्वराष्टोत्तरशतनामावलिः",
+   "sub": "१०६ नाम",
+   "tag": "पार्वती",
+   "n": 107,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-227",
+   "title": "अर्धनारीश्वर्यष्टोत्तरशतनामावलिः (स्कन्दमहापुराणान्तर्गता चामुण्डिकाम्बायै श्रीकण्ठाय पार्वत्यै परमेश्वराय)",
+   "sub": "एकै खण्ड",
+   "tag": "पार्वती",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-228",
+   "title": "उमाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "पार्वती",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-229",
+   "title": "गौर्यष्टोत्तरशतनामावलिः १ (त्रिपुरारहस्यान्तर्गता गौर्यै गोजनन्यै विद्यायै)",
+   "sub": "एकै खण्ड",
+   "tag": "पार्वती",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-230",
+   "title": "गौर्यष्टोत्तरशतनामावलिः २ स्वर्णगौर्यष्टोत्तरशतनामावलिः (महामनोन्मणीशक्त्यै शिवशक्त्यै शिवंकर्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "पार्वती",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-231",
+   "title": "गौर्यष्टोत्तरशतनामावलिः ३ (शिवायै श्रीमहाविद्यायै श्रीमन्मुकुटमण्डितायै)",
+   "sub": "एकै खण्ड",
+   "tag": "पार्वती",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-232",
+   "title": "गौर्यष्टोत्तरशतनामावलिः ४ (गौर्यै श्रीगिरीन्द्रतनयायै)",
+   "sub": "एकै खण्ड",
+   "tag": "पार्वती",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-233",
+   "title": "पार्वत्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "पार्वती",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-234",
+   "title": "मीनाक्षी स्तोत्राष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "मीनाक्षी",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-235",
+   "title": "राधाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "राधा",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-236",
+   "title": "राधिकाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "राधा",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-237",
+   "title": "नामरामायणम् (लक्ष्मणाचार्यविरचितम्)",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-238",
+   "title": "रामचन्द्रपादुकार्चनम् (भूशुण्डिरामायणान्तर्गतम्)",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-239",
+   "title": "रामनामावलिः (रामनवरात्रोत्सवकल्पलतायां)",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-240",
+   "title": "रामाष्टोत्तरशतनामावलिः १० मन्त्रवर्णाक्षरयुक्त",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-241",
+   "title": "रामाष्टोत्तरशतनामावलिः १ (पद्मपुराणान्तर्गता श्रीरामाय रामभद्राय)",
+   "sub": "११ नाम",
+   "tag": "राम",
+   "n": 12,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-242",
+   "title": "रामाष्टोत्तरशतनामावलिः २ (आनन्दरामायणान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-243",
+   "title": "रामाष्टोत्तरशतनामावलिः ३ राघवाष्टोत्तरशतनामावलिः जगदानन्दकारकश्रीरामशतनामावलिः (त्यागराजविरचिता)",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-244",
+   "title": "रामाष्टोत्तरशतनामावलिः ४",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-245",
+   "title": "रामाष्टोत्तरशतनामावलिः ५",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-246",
+   "title": "रामाष्टोत्तरशतनामावलिः ६",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-247",
+   "title": "रामाष्टोत्तरशतनामावलिः ७",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-248",
+   "title": "रामाष्टोत्तरशतनामावलिः ८ (रामरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-249",
+   "title": "रामाष्टोत्तरशतनामावलिः ९ मन्त्रवर्णयुत",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-250",
+   "title": "सीताष्टोत्तरशतनामावलिः १ (आनन्दरामायणान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-251",
+   "title": "सीताष्टोत्तरशतनामावलिः २ ((ब्रह्मयामलान्तर्गता श्रीरामरहस्योक्ता, सीतायै सीरध्वजसुतायै)",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-252",
+   "title": "सीताष्टोत्तरशतनामावलिः ३ (जनकनन्दिन्यै)",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-253",
+   "title": "सीताष्टोत्तरशतनामावलिः ४ (श्रीसीतायै पतिव्रतायै)",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-254",
+   "title": "अनघादेव्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-255",
+   "title": "अम्बुजावल्ल्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-256",
+   "title": "अष्टलक्ष्म्यष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-257",
+   "title": "आदिलक्ष्म्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-258",
+   "title": "ऐश्वर्यलक्ष्म्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-259",
+   "title": "गजलक्ष्म्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-260",
+   "title": "धान्यलक्ष्म्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-261",
+   "title": "धैर्यलक्ष्म्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-262",
+   "title": "महालक्ष्मीस्तवम् अथवा वैभवलक्ष्मी अर्चना",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-263",
+   "title": "महालक्ष्म्यष्टोत्तरशतनामावलिः २",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-264",
+   "title": "महालक्ष्म्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-265",
+   "title": "लक्ष्म्यष्टोत्तरशतनामावलिः १ (प्रकृत्यै विकृत्यै विद्यायै)",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-266",
+   "title": "लक्ष्म्यष्टोत्तरशतनामावलिः २",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-267",
+   "title": "विजयलक्ष्म्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-268",
+   "title": "विद्यालक्ष्म्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-269",
+   "title": "विमलाष्टोत्तरशतनामावली",
+   "sub": "१ नाम",
+   "tag": "लक्ष्मी",
+   "n": 2,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-270",
+   "title": "सन्तानलक्ष्म्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-271",
+   "title": "हरितालक्ष्म्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "लक्ष्मी",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-272",
+   "title": "अनन्ताष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-273",
+   "title": "गरुडाष्टोत्तरशतनामावलिः २ (गरुडोपनिषदुद्धृता)",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-274",
+   "title": "गरुडाष्टोत्तरशतनामावलिः (ब्रह्माण्डपुराणान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-275",
+   "title": "गुरुवायुपुरेश्वराष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-276",
+   "title": "त्रिविक्रमाष्टोत्तरशतनामावली ((श्रीकृष्णप्रेमि स्वामिगळेन विरचिता)",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-277",
+   "title": "धन्वन्तर्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-278",
+   "title": "धन्वन्तर्यष्टोत्तरशतनामावलिः धकारादि",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-279",
+   "title": "नारायणाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-280",
+   "title": "भगवद्शतनामावलिः द्रमिडोपनिषद्",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-281",
+   "title": "रङ्गनाथाष्टोत्तरशतनामावलिः २",
+   "sub": "६ नाम",
+   "tag": "विष्णु",
+   "n": 7,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-282",
+   "title": "रङ्गनाथाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-283",
+   "title": "विठ्ठलाष्टोत्तरशतनामावलिः (पद्मपुराणान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-284",
+   "title": "विष्णोरकाराद्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-285",
+   "title": "विष्णोरष्टोत्तरशतदिव्यस्थानीयनामावलिः (ललितागमान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-286",
+   "title": "विष्ण्वष्टोत्तरशतनामावलिः १ (हृषीकेशाय केशवाय मधुसूदनाय)",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-287",
+   "title": "विष्ण्वष्टोत्तरशतनामावलिः २ अथवा नारायणाष्टोत्तरशतनामावलिः (महाभारतान्तर्गता विष्णवे लक्ष्मीपतये कृष्णाय वैकुण्ठाय)",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-288",
+   "title": "विष्ण्वष्टोत्तरशतनामावलिः ३ (पद्मपुराणान्तर्गता कृष्णाय केशवाय केशिशत्रवे सनातनाय)",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-289",
+   "title": "विष्ण्वष्टोत्तरशतनामावलिः ४ (शाक्तप्रमोदतः श्रीविष्णवे जिष्णवे वषट्काराय देवदेवाय)",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-290",
+   "title": "श्रीक्ऱिष्णाष्टोत्तरशतनामावलिः २ (नारायणीयमाहात्म्यान्तर्गता गोलोकनाथाय गोविन्दाय गोपिकाजनवल्लभाय)",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-291",
+   "title": "सुदर्शनाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-292",
+   "title": "हयग्रीवाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-293",
+   "title": "सत्यनारायणाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णुका अन्य रूप",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-294",
+   "title": "वेङ्कटेशाष्टोत्तरशतनामावलिः १ (सनत्कुमारसंहितान्तर्गता, ओंकारपरमर्थाय नरनारायणात्मकाय)",
+   "sub": "११ नाम",
+   "tag": "वेङ्कटेश्वर",
+   "n": 12,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-295",
+   "title": "वेङ्कटेशाष्टोत्तरशतनामावलिः २ (वेङ्कटेशाय शेषाद्रिनिलयाय)",
+   "sub": "एकै खण्ड",
+   "tag": "वेङ्कटेश्वर",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-296",
+   "title": "वेङ्कटेश्वराष्टोत्तरशतनामावलिः (ब्रह्माण्डपुराणान्तर्गता)",
+   "sub": "१० नाम",
+   "tag": "वेङ्कटेश्वर",
+   "n": 11,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-297",
+   "title": "अरुणाचलेश्वराष्टोत्तरनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-298",
+   "title": "अर्धनारीश्वराष्टोत्तरशतनामावलिः",
+   "sub": "१०६ नाम",
+   "tag": "शिव",
+   "n": 107,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-299",
+   "title": "आनन्दनटराजाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-300",
+   "title": "आपदुद्धारकबटुकभैरवाष्टोत्तरशतनामावलिः (रुद्रयामलेतन्त्रे विश्वसारोद्धारे भैरवाय भूतनाथाय भूतात्मने भूतभावनाय)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-301",
+   "title": "कालभैरवाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-302",
+   "title": "केदारेश्वराष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-303",
+   "title": "गौरीपतिशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-304",
+   "title": "चिदम्बरेश्वरीचिदम्बरेश्वरसम्मेलनाष्टोत्तरशतनामानी",
+   "sub": "१५ नाम",
+   "tag": "शिव",
+   "n": 16,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-305",
+   "title": "च्युतपुरीशाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-306",
+   "title": "ताण्डवेश्वरीताण्डवेश्वराष्टोत्तरशतनामावलिः (चिदम्बररहस्यान्तर्गतम्)",
+   "sub": "३ नाम",
+   "tag": "शिव",
+   "n": 4,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-307",
+   "title": "तेजिनीवनेश्वराष्टोत्तरशतनामावली",
+   "sub": "६ नाम",
+   "tag": "शिव",
+   "n": 7,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-308",
+   "title": "दक्षिणामूर्त्यष्टोत्तरशतनामावलिः १ (विद्यारूपिणे महायोगिने)",
+   "sub": "११ नाम",
+   "tag": "शिव",
+   "n": 12,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-309",
+   "title": "दक्षिणामूर्त्यष्टोत्तरशतनामावलिः २ मेधादक्षिणामूर्ति (ओङ्काराचलसिंहेन्द्राय)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-310",
+   "title": "नटराजाष्टोत्तरशतनामावलिः अथवा आनन्दनटराजाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-311",
+   "title": "नटेशाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-312",
+   "title": "नन्दिकेश्वराष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-313",
+   "title": "बटुकभैरवाष्टोत्तरशतनामावलिः १ आपदुद्धारक (रुद्रयामलान्तर्गतम् भैरवाय भूतनाथाय)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-314",
+   "title": "बटुकभैरवाष्टोत्तरशतनामावलिः २ (कालसङ्कर्षणतन्त्रान्तर्गतम् बटुकाय वरदाय)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-315",
+   "title": "बटुकभैरवाष्टोत्तरशतनामावलिः ३ (कालसङ्कर्षणतन्त्रोक्ता बटुकाय वरदाय शूराय भैरवाय कालभैरवाय)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-316",
+   "title": "मन्त्रराजशतनामावलिः",
+   "sub": "६ नाम",
+   "tag": "शिव",
+   "n": 7,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-317",
+   "title": "महाकालककाराद्यष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-318",
+   "title": "मार्तण्डभैरवाष्टोत्तरशतनामावली",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-319",
+   "title": "मृत्युञ्जयाष्टोत्तरशतनामावलिः १ (भगवते, सदाशिवाय)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-320",
+   "title": "मृत्युञ्जयाष्टोत्तरशतनामावलिः २ (शान्ताय भर्गाय)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-321",
+   "title": "मेधादक्षिणामूर्त्यष्टोत्तरशतनामावलिः (ओङ्काराचलसिंहेन्द्राय)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-322",
+   "title": "लिङ्गाष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-323",
+   "title": "वीरभद्राष्टोत्तरशतनामावलिः २ (अघोरभद्राय नमः अतिक्रूराय रुद्रकोपसमुद्भवाय)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-324",
+   "title": "वीरभद्राष्टोत्तरशतनामावलिः (वायुपुराणान्तर्गता हयग्रीवावतारविरचिता वीरभद्राय महाशूराय रौद्राय)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-325",
+   "title": "शरभाष्टोत्तरशतनामावलिः (लिङ्गपुराणोक्तं श्रीनृसिंहकृता)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-326",
+   "title": "शरभेश्वराष्टोत्तरशतनामावलिः (वीरमाहेश्वराचारसंग्रहे)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-327",
+   "title": "शिवकैलासाष्टोत्तरशतनामावली कामेश्वराष्टोत्तरशतनामावली च",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-328",
+   "title": "शिवनामकल्पलतालवालः शिवाष्टोत्तरशतनामावली १ (शिवरहस्यान्तर्गता शिवाय महेश्वराय शम्भवे)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-329",
+   "title": "शिवनिर्वाणशतनामावलिः अथवा स्तोत्रम् क्षमापनस्तुतिः",
+   "sub": "१ नाम",
+   "tag": "शिव",
+   "n": 2,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-330",
+   "title": "शिवपञ्चाक्षराष्टोत्तरशतनामावलिः १",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-331",
+   "title": "शिवपञ्चाक्षराष्टोत्तरशतनामावलिः २",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-332",
+   "title": "शिवशताष्टनामावलिः मास ०१ चैत्रमासकृते (शिवरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-333",
+   "title": "शिवशताष्टनामावलिः मास ०२ वैशाखमासकृते (शिवरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-334",
+   "title": "शिवशताष्टनामावलिः मास ०३ ज्येष्ठमासकृते (शिवरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-335",
+   "title": "शिवशताष्टनामावलिः मास ०४ आषाढमासकृते (शिवरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-336",
+   "title": "शिवशताष्टनामावलिः मास ०५ श्रावणमासकृते (शिवरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-337",
+   "title": "शिवशताष्टनामावलिः मास ०६ भाद्रपदमासकृते (शिवरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-338",
+   "title": "शिवशताष्टनामावलिः मास ०७ अश्वायुजमासकृते (शिवरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-339",
+   "title": "शिवशताष्टनामावलिः मास ०८ कार्तिकमासकृते (शिवरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-340",
+   "title": "शिवशताष्टनामावलिः मास ०९ मार्गशीर्षमासकृते (शिवरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-341",
+   "title": "शिवशताष्टनामावलिः मास १० पौष्यमासकृते (शिवरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-342",
+   "title": "शिवशताष्टनामावलिः मास ११ माघमासकृते (शिवरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-343",
+   "title": "शिवशताष्टनामावलिः मास १२ फाल्गुनमासकृते (शिवरहस्यान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-344",
+   "title": "शिवस्तुतिव्युत्पन्ना अशीत्यधिकशतनामावलिः (दक्षकृता शिवस्तुतिव्युत्पन्ना बृहद्धर्मपुराणान्तर्गता देवदेवेशाय सुरासुरनमस्कृताय)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-345",
+   "title": "शिवाष्टोत्तरशतदिव्यस्थानीयनामावलिः (ललितागमान्तर्गता)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-346",
+   "title": "शिवाष्टोत्तरशतनामावलिः १ (शिवरहस्यान्तर्गता शिवाय महेश्वराय शम्भवे)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-347",
+   "title": "शिवाष्टोत्तरशतनामावलिः २ (स्कन्दपुराणान्तर्गता शम्भवे विभवे रुद्राय)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-348",
+   "title": "शिवाष्टोत्तरशतनामावलिः ३ (मयूरकृता श्रीकण्ठाय वरदाय शर्वाय)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-349",
+   "title": "शोणाचलशिवनामावलिः (स्कन्दमहापुराणान्तर्गतम्)",
+   "sub": "१ नाम",
+   "tag": "शिव",
+   "n": 2,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-350",
+   "title": "सिद्धलिङ्गाष्टोत्तरशतमाला (भस्माङ्गदेवविरचितम्)",
+   "sub": "१०८ नाम",
+   "tag": "शिव",
+   "n": 109,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-351",
+   "title": "स्वर्णाकर्षणभैरवनामावलिः (रुद्रयामलान्तर्गतम्)",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-352",
+   "title": "हरिहराष्टोत्तरशतनामावलिः",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-353",
+   "title": "सरस्वत्यष्टोत्तरशतनामावलिः १",
+   "sub": "एकै खण्ड",
+   "tag": "सरस्वती",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-354",
+   "title": "सरस्वत्यष्टोत्तरशतनामावलिः २ मातृकासरस्वती",
+   "sub": "एकै खण्ड",
+   "tag": "सरस्वती",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-355",
+   "title": "सरस्वत्यष्टोत्तरशतनामावलिः ३",
+   "sub": "एकै खण्ड",
+   "tag": "सरस्वती",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-356",
+   "title": "आञ्जनेयाष्टोत्तरशतनामावलिः हनुमदष्टोत्तरशतनामावलिः आञ्जनेयाय महावीराय हनूमते मारुतात्मजाय)",
+   "sub": "एकै खण्ड",
+   "tag": "हनुमान",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-357",
+   "title": "हनुमदष्टोत्तरशतनामावलिः ०१ (पद्मोत्तरपुराणान्तर्गता हनुमते अञ्जनापुत्राय वायुसूनवे)",
+   "sub": "एकै खण्ड",
+   "tag": "हनुमान",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-358",
+   "title": "हनुमदष्टोत्तरशतनामावलिः ०२ (पाञ्चरात्रागमतः रामदासाग्रण्ये श्रीमते हनूमते)",
+   "sub": "एकै खण्ड",
+   "tag": "हनुमान",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-359",
+   "title": "हनुमदष्टोत्तरशतनामावलिः ०३ (ब्रह्मवैवर्तपुराणान्तर्गता पारिजातप्रियाय योगिने हनुमते)",
+   "sub": "एकै खण्ड",
+   "tag": "हनुमान",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-360",
+   "title": "हनुमदष्टोत्तरशतनामावलिः ०४ (रघुप्रवीरयतिकृता हनुमते वायुतनयाय केसरीप्रियनन्दनाय)",
+   "sub": "एकै खण्ड",
+   "tag": "हनुमान",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-361",
+   "title": "हनुमदष्टोत्तरशतनामावलिः ०५ (रामनामाङ्किता रामदूताय रामभृत्याय रामचित्तापहारकाय)",
+   "sub": "एकै खण्ड",
+   "tag": "हनुमान",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-362",
+   "title": "हनुमदष्टोत्तरशतनामावलिः ०६ (पराशरसम्हितान्तर्गता अञ्जनीगर्भसम्भूताय वायुपुत्राय चिरञ्जीविने)",
+   "sub": "एकै खण्ड",
+   "tag": "हनुमान",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-363",
+   "title": "हनुमदष्टोत्तरशतनामावलिः ०७ (पराशरसम्हितान्तर्गता प्लवगेन्द्राय वायुपुत्राय वालिने)",
+   "sub": "एकै खण्ड",
+   "tag": "हनुमान",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-364",
+   "title": "हनुमदष्टोत्तरशतनामावलिः ०८ (पराशरसम्हितान्तर्गता अभूतपूर्व डिम्भश्रिये अञ्जनागर्भसम्भवाय)",
+   "sub": "एकै खण्ड",
+   "tag": "हनुमान",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-365",
+   "title": "हनुमदष्टोत्तरशतनामावलिः ०९ (पराशरसम्हितान्तर्गता आयुष्मते अप्रमेयात्मने हनुमते)",
+   "sub": "एकै खण्ड",
+   "tag": "हनुमान",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "ashtottarashatanamavali-366",
+   "title": "हनुमदष्टोत्तरशतनामावलिः १० (रामरहस्योक्ता हनुमते अञ्जनासूनवे धीमते केसरिनन्दनाय)",
+   "sub": "एकै खण्ड",
+   "tag": "हनुमान",
+   "n": 1,
+   "part": "part-07.json"
+  }
+ ]
+}

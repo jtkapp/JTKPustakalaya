@@ -1,0 +1,1585 @@
+{
+ "id": "upanishhat",
+ "title": "उपनिषद्सङ्ग्रह",
+ "count": 244,
+ "parts": [
+  {
+   "file": "part-01.json",
+   "bytes": 410695
+  },
+  {
+   "file": "part-02.json",
+   "bytes": 180184
+  },
+  {
+   "file": "part-03.json",
+   "bytes": 501062
+  },
+  {
+   "file": "part-04.json",
+   "bytes": 418980
+  },
+  {
+   "file": "part-05.json",
+   "bytes": 443953
+  },
+  {
+   "file": "part-06.json",
+   "bytes": 428210
+  },
+  {
+   "file": "part-07.json",
+   "bytes": 419007
+  },
+  {
+   "file": "part-08.json",
+   "bytes": 451032
+  },
+  {
+   "file": "part-09.json",
+   "bytes": 28325
+  },
+  {
+   "file": "part-10.json",
+   "bytes": 666755
+  },
+  {
+   "file": "part-11.json",
+   "bytes": 335158
+  },
+  {
+   "file": "part-12.json",
+   "bytes": 397867
+  },
+  {
+   "file": "part-13.json",
+   "bytes": 314567
+  },
+  {
+   "file": "part-14.json",
+   "bytes": 428085
+  },
+  {
+   "file": "part-15.json",
+   "bytes": 760759
+  },
+  {
+   "file": "part-16.json",
+   "bytes": 423612
+  },
+  {
+   "file": "part-17.json",
+   "bytes": 461011
+  },
+  {
+   "file": "part-18.json",
+   "bytes": 160080
+  },
+  {
+   "file": "part-19.json",
+   "bytes": 423564
+  },
+  {
+   "file": "part-20.json",
+   "bytes": 435883
+  },
+  {
+   "file": "part-21.json",
+   "bytes": 434667
+  },
+  {
+   "file": "part-22.json",
+   "bytes": 422314
+  },
+  {
+   "file": "part-23.json",
+   "bytes": 399917
+  },
+  {
+   "file": "part-24.json",
+   "bytes": 402159
+  },
+  {
+   "file": "part-25.json",
+   "bytes": 360978
+  },
+  {
+   "file": "part-26.json",
+   "bytes": 444055
+  },
+  {
+   "file": "part-27.json",
+   "bytes": 456374
+  },
+  {
+   "file": "part-28.json",
+   "bytes": 218096
+  }
+ ],
+ "pathas": [
+  {
+   "id": "upanishhat-1",
+   "title": "उपनिषद् खण्ड 1",
+   "n": 342,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-2",
+   "title": "कृष्णानन्दकृतिषु उपदेशदशकं",
+   "n": 12,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-3",
+   "title": "शैव उपनिषत्",
+   "n": 39,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-4",
+   "title": "उपनिषद् खण्ड 4",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-5",
+   "title": "गारुडोपनिषत्",
+   "n": 10,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-6",
+   "title": "प्रणवोपनिषत्",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-7",
+   "title": "प्रणवोपनिषत्",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-8",
+   "title": "अथ विश्वाकर्मोपनिषत्",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-9",
+   "title": "महोपनिषत्",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-10",
+   "title": "उपनिषद् खण्ड 10",
+   "n": 4,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-11",
+   "title": "उपनिषद् खण्ड 11",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-12",
+   "title": "उपनिषद् खण्ड 12",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-13",
+   "title": "तारोपनिषत्",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-14",
+   "title": "पीताम्बरोपनिषत्",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-15",
+   "title": "वाल्मीकि संहिता पञ्चम अध्याय अन्तर्गत मैथिलीमहोपनिषद्",
+   "n": 13,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-16",
+   "title": "विद्यातारकोपनिषत्",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-17",
+   "title": "उपनिषद् खण्ड 17",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-18",
+   "title": "उपनिषद् खण्ड 18",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-19",
+   "title": "सीतोपनिषत्",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-20",
+   "title": "उपनिषद् खण्ड 20",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-21",
+   "title": "उपनिषद् खण्ड 21",
+   "n": 1,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-22",
+   "title": "उपनिषद् खण्ड 22",
+   "n": 19,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-23",
+   "title": "गणेशोपनिषद्",
+   "n": 15,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-24",
+   "title": "गणेशोत्तरतापिन्युपनिषत्सु षष्ठोपनिषत्",
+   "n": 25,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-25",
+   "title": "उपनिषद् खण्ड 25",
+   "n": 15,
+   "part": "part-01.json"
+  },
+  {
+   "id": "upanishhat-26",
+   "title": "गौडपादाचर्यकृता माण्डूक्योपनिषत्",
+   "n": 231,
+   "part": "part-02.json"
+  },
+  {
+   "id": "upanishhat-27",
+   "title": "उपनिषद् खण्ड 27",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "upanishhat-28",
+   "title": "रुद्रहृदयोपनिषत्",
+   "n": 53,
+   "part": "part-02.json"
+  },
+  {
+   "id": "upanishhat-29",
+   "title": "मन्त्रिकोपनिषत्",
+   "n": 20,
+   "part": "part-02.json"
+  },
+  {
+   "id": "upanishhat-30",
+   "title": "सूर्योपनिषत्",
+   "n": 1,
+   "part": "part-02.json"
+  },
+  {
+   "id": "upanishhat-31",
+   "title": "रामतापिन्युपनिषत्",
+   "n": 190,
+   "part": "part-02.json"
+  },
+  {
+   "id": "upanishhat-32",
+   "title": "श्रीरामोपनिषद्",
+   "n": 180,
+   "part": "part-03.json"
+  },
+  {
+   "id": "upanishhat-33",
+   "title": "प्रथमोपनिषत्",
+   "n": 282,
+   "part": "part-04.json"
+  },
+  {
+   "id": "upanishhat-34",
+   "title": "रामरहस्योपनिषत्",
+   "n": 148,
+   "part": "part-04.json"
+  },
+  {
+   "id": "upanishhat-35",
+   "title": "उपनिषद् खण्ड 35",
+   "n": 205,
+   "part": "part-04.json"
+  },
+  {
+   "id": "upanishhat-36",
+   "title": "विश्वम्भरोपनिषत्",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "upanishhat-37",
+   "title": "सदाशिवप्रणीतं अद्वैतभावं",
+   "n": 1,
+   "part": "part-04.json"
+  },
+  {
+   "id": "upanishhat-38",
+   "title": "ईशावास्योपनिषत्",
+   "n": 37,
+   "part": "part-04.json"
+  },
+  {
+   "id": "upanishhat-39",
+   "title": "उपनिषद् खण्ड 39",
+   "n": 20,
+   "part": "part-05.json"
+  },
+  {
+   "id": "upanishhat-40",
+   "title": "वचनात् केनोपनिषत्",
+   "n": 19,
+   "part": "part-05.json"
+  },
+  {
+   "id": "upanishhat-41",
+   "title": "मत्परमहंसपरिव्राजकाचार्यश्रीमच्छङ्कराचार्यविरचिता मठाम्नायोपनिषत्",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "upanishhat-42",
+   "title": "अथर्ववेदीय अथर्वशिखोपनिषत्",
+   "n": 4,
+   "part": "part-05.json"
+  },
+  {
+   "id": "upanishhat-43",
+   "title": "कठरुद्रोपनिषत्",
+   "n": 43,
+   "part": "part-05.json"
+  },
+  {
+   "id": "upanishhat-44",
+   "title": "कैवल्योपनिषद्",
+   "n": 25,
+   "part": "part-05.json"
+  },
+  {
+   "id": "upanishhat-45",
+   "title": "य उपनिषत्",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "upanishhat-46",
+   "title": "दक्षिणामूर्त्युपनिषत्",
+   "n": 21,
+   "part": "part-05.json"
+  },
+  {
+   "id": "upanishhat-47",
+   "title": "नारायणविरचिता नीलरुद्रोपनिषद्",
+   "n": 10,
+   "part": "part-05.json"
+  },
+  {
+   "id": "upanishhat-48",
+   "title": "उपनिषद् खण्ड 48",
+   "n": 1,
+   "part": "part-05.json"
+  },
+  {
+   "id": "upanishhat-49",
+   "title": "बिल्वोपनिषत्",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-50",
+   "title": "उपनिषद् खण्ड 50",
+   "n": 139,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-51",
+   "title": "भस्मजाबालोपनिषत्",
+   "n": 2,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-52",
+   "title": "मृत्युलाङ्गूलोपनिषत्",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-53",
+   "title": "रुद्राक्षजाबालोपनिषत्",
+   "n": 43,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-54",
+   "title": "रुद्रोपनिषत्",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-55",
+   "title": "लिङ्गोपनिषत्",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-56",
+   "title": "वज्रपञ्जरोपनिषत्",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-57",
+   "title": "उपनिषद् खण्ड 57",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-58",
+   "title": "शिवसङ्कल्पोपनिषत्",
+   "n": 79,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-59",
+   "title": "वाजसनेयसंहितायां शिवसङ्कल्पोपनिषत्",
+   "n": 13,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-60",
+   "title": "शिवोपनिषदि शिवाचाराध्यायः सप्तमः ॥ ॥ इति शिवोपनिषत्",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-61",
+   "title": "सदानन्दोपनिषत्",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-62",
+   "title": "सिद्धान्तशिखोपनिषत्",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-63",
+   "title": "सिद्धान्तसारोपनिषत्",
+   "n": 1,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-64",
+   "title": "कृष्णयजुर्वेदीय स्कन्दोपनिषत्",
+   "n": 16,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-65",
+   "title": "उपनिषद् खण्ड 65",
+   "n": 32,
+   "part": "part-06.json"
+  },
+  {
+   "id": "upanishhat-66",
+   "title": "राघवेन्द्रयतिविरचितः श्रीमदीशावास्योपनिषत्",
+   "n": 41,
+   "part": "part-07.json"
+  },
+  {
+   "id": "upanishhat-67",
+   "title": "ईशोपनिषत्",
+   "n": 19,
+   "part": "part-07.json"
+  },
+  {
+   "id": "upanishhat-68",
+   "title": "अथ कठोपनिषद्",
+   "n": 121,
+   "part": "part-07.json"
+  },
+  {
+   "id": "upanishhat-69",
+   "title": "केनोपनिषत्",
+   "n": 36,
+   "part": "part-07.json"
+  },
+  {
+   "id": "upanishhat-70",
+   "title": "अथ छान्दोग्योपनिषत्",
+   "n": 1,
+   "part": "part-07.json"
+  },
+  {
+   "id": "upanishhat-71",
+   "title": "दशमोऽनुवाकः ॥ ॥ इति भृगुवल्ली",
+   "n": 52,
+   "part": "part-07.json"
+  },
+  {
+   "id": "upanishhat-72",
+   "title": "दशमोऽनुवाकः ॥ ॥ इति भृगुवल्ली",
+   "n": 52,
+   "part": "part-08.json"
+  },
+  {
+   "id": "upanishhat-73",
+   "title": "त्रिपाद्विभूतिमहानारायणोपनिषत्",
+   "n": 9,
+   "part": "part-08.json"
+  },
+  {
+   "id": "upanishhat-74",
+   "title": "पञ्चमोपनिषत्",
+   "n": 28,
+   "part": "part-08.json"
+  },
+  {
+   "id": "upanishhat-75",
+   "title": "अथर्ववेदीय शाक्तोपनिषत्",
+   "n": 23,
+   "part": "part-08.json"
+  },
+  {
+   "id": "upanishhat-76",
+   "title": "नारदपरिव्राजकोपनिषत्",
+   "n": 245,
+   "part": "part-08.json"
+  },
+  {
+   "id": "upanishhat-77",
+   "title": "परब्रह्मोपनिषत्",
+   "n": 16,
+   "part": "part-08.json"
+  },
+  {
+   "id": "upanishhat-78",
+   "title": "पाशुपतब्रह्मोपनिषत्",
+   "n": 47,
+   "part": "part-08.json"
+  },
+  {
+   "id": "upanishhat-79",
+   "title": "उपनिषद् खण्ड 79",
+   "n": 1,
+   "part": "part-09.json"
+  },
+  {
+   "id": "upanishhat-80",
+   "title": "बृहदारण्यकोपनिषदि षष्ठोऽध्यायः ॥ इति वाजसनेयके बृहदारण्यकोपनिषत्",
+   "n": 438,
+   "part": "part-10.json"
+  },
+  {
+   "id": "upanishhat-81",
+   "title": "बृहदारण्यकोपनिषदि षष्ठोऽध्यायः ॥ इति वाजसनेयके बृहदारण्यकोपनिषत्",
+   "n": 438,
+   "part": "part-11.json"
+  },
+  {
+   "id": "upanishhat-82",
+   "title": "उपनिषद् खण्ड 82",
+   "n": 1,
+   "part": "part-12.json"
+  },
+  {
+   "id": "upanishhat-83",
+   "title": "अथ भावनोपनिषत्",
+   "n": 1,
+   "part": "part-12.json"
+  },
+  {
+   "id": "upanishhat-84",
+   "title": "महानारायणोपनिषत्",
+   "n": 264,
+   "part": "part-13.json"
+  },
+  {
+   "id": "upanishhat-85",
+   "title": "उपनिषद् खण्ड 85",
+   "n": 270,
+   "part": "part-13.json"
+  },
+  {
+   "id": "upanishhat-86",
+   "title": "महावाक्योपनिषत्",
+   "n": 1,
+   "part": "part-13.json"
+  },
+  {
+   "id": "upanishhat-87",
+   "title": "माण्डूक्योपनिषत्",
+   "n": 13,
+   "part": "part-13.json"
+  },
+  {
+   "id": "upanishhat-88",
+   "title": "मुण्डकोपनिषत्",
+   "n": 68,
+   "part": "part-13.json"
+  },
+  {
+   "id": "upanishhat-89",
+   "title": "उपनिषद् खण्ड 89",
+   "n": 2,
+   "part": "part-13.json"
+  },
+  {
+   "id": "upanishhat-90",
+   "title": "उपनिषद् खण्ड 90",
+   "n": 541,
+   "part": "part-14.json"
+  },
+  {
+   "id": "upanishhat-91",
+   "title": "शरभोपनिषत्",
+   "n": 36,
+   "part": "part-14.json"
+  },
+  {
+   "id": "upanishhat-92",
+   "title": "शाण्डिल्योपनिषत्",
+   "n": 82,
+   "part": "part-14.json"
+  },
+  {
+   "id": "upanishhat-93",
+   "title": "उपनिषद् खण्ड 93",
+   "n": 114,
+   "part": "part-14.json"
+  },
+  {
+   "id": "upanishhat-94",
+   "title": "हयग्रीवोपनिषत्",
+   "n": 11,
+   "part": "part-14.json"
+  },
+  {
+   "id": "upanishhat-95",
+   "title": "मत्सुन्दरेश्वरताताचार्यशिष्याप्पयशिवाचार्यकृतिषु अद्वयतारकोपनिषद्",
+   "n": 36,
+   "part": "part-14.json"
+  },
+  {
+   "id": "upanishhat-96",
+   "title": "अद्वैतोपनिषत्",
+   "n": 1,
+   "part": "part-14.json"
+  },
+  {
+   "id": "upanishhat-97",
+   "title": "अध्यात्मोपनिषत्",
+   "n": 70,
+   "part": "part-14.json"
+  },
+  {
+   "id": "upanishhat-98",
+   "title": "ऐतरेयोपनिषद्",
+   "n": 21,
+   "part": "part-15.json"
+  },
+  {
+   "id": "upanishhat-99",
+   "title": "कृष्णयजुर्वेदीय अमृतनादोपनिषत्",
+   "n": 40,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-100",
+   "title": "कृष्ण यजुर्वेदेऽमृतबिन्दूपनिषत्",
+   "n": 23,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-101",
+   "title": "उपनिषद् खण्ड 101",
+   "n": 1,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-102",
+   "title": "अव्यक्तनृसिंहोपनिषत्",
+   "n": 7,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-103",
+   "title": "उपनिषद् खण्ड 103",
+   "n": 1,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-104",
+   "title": "उपनिषद् खण्ड 104",
+   "n": 51,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-105",
+   "title": "उपनिषद् खण्ड 105",
+   "n": 1,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-106",
+   "title": "आत्मपूजोपनिषत्",
+   "n": 1,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-107",
+   "title": "आत्मबोधोपनिषत्",
+   "n": 32,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-108",
+   "title": "सामवेदीयारुणिकोपनिषत्",
+   "n": 6,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-109",
+   "title": "उपनिषद् खण्ड 109",
+   "n": 4,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-110",
+   "title": "उपनिषद् खण्ड 110",
+   "n": 6,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-111",
+   "title": "इतिहासोपनिषत्",
+   "n": 1,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-112",
+   "title": "उपनिषद् खण्ड 112",
+   "n": 1,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-113",
+   "title": "उपनिषद् खण्ड 113",
+   "n": 14,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-114",
+   "title": "उपनिषद् खण्ड 114",
+   "n": 34,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-115",
+   "title": "पञ्चमः खण्डः ॥ इत्यैतरेयाण्यके षष्ठोऽध्यायः । इति उपनिषत्",
+   "n": 34,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-116",
+   "title": "उपनिषद् खण्ड 116",
+   "n": 4,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-117",
+   "title": "कात्यायनोपनिषत्",
+   "n": 1,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-118",
+   "title": "कालाग्निरुद्रोपनिषत्",
+   "n": 2,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-119",
+   "title": "कुण्डिकोपनिषत्",
+   "n": 29,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-120",
+   "title": "कृष्णोपनिषत्",
+   "n": 27,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-121",
+   "title": "कौलोपनिषत्",
+   "n": 1,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-122",
+   "title": "कौषीतकिब्राह्मणोपनिषत्",
+   "n": 54,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-123",
+   "title": "गर्भोपनिषत्",
+   "n": 5,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-124",
+   "title": "गायत्रीरहस्योपनिषत्",
+   "n": 1,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-125",
+   "title": "उपनिषद् खण्ड 125",
+   "n": 26,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-126",
+   "title": "चतुर्वेदोपनिषत्",
+   "n": 1,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-127",
+   "title": "उपनिषद् खण्ड 127",
+   "n": 1,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-128",
+   "title": "नारायणविरचिता चूलिकोपनिषद्",
+   "n": 47,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-129",
+   "title": "उपनिषद् खण्ड 129",
+   "n": 20,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-130",
+   "title": "छागलयोपनिषत्",
+   "n": 3,
+   "part": "part-16.json"
+  },
+  {
+   "id": "upanishhat-131",
+   "title": "दशमः खण्डः श्रीवासुदेवेन्द्रशिष्योपनिषद्",
+   "n": 259,
+   "part": "part-17.json"
+  },
+  {
+   "id": "upanishhat-132",
+   "title": "शातिः ॥ इत्यथर्ववेदीया जाबालोपनिषत्",
+   "n": 7,
+   "part": "part-17.json"
+  },
+  {
+   "id": "upanishhat-133",
+   "title": "तारसारोपनिषत्",
+   "n": 18,
+   "part": "part-17.json"
+  },
+  {
+   "id": "upanishhat-134",
+   "title": "तुरीयातीतोपनिषत्",
+   "n": 1,
+   "part": "part-17.json"
+  },
+  {
+   "id": "upanishhat-135",
+   "title": "य एवं वेदेत्युपनिषत् ॥ इति तुरीयोपनिषत्",
+   "n": 1,
+   "part": "part-17.json"
+  },
+  {
+   "id": "upanishhat-136",
+   "title": "तेजोबिन्दूपनिषत्",
+   "n": 467,
+   "part": "part-17.json"
+  },
+  {
+   "id": "upanishhat-137",
+   "title": "त्रिपुरोपनिषत्",
+   "n": 17,
+   "part": "part-17.json"
+  },
+  {
+   "id": "upanishhat-138",
+   "title": "त्रिशिखिब्राह्मणोपनिषत्",
+   "n": 164,
+   "part": "part-17.json"
+  },
+  {
+   "id": "upanishhat-139",
+   "title": "शम् । इति दशोपनिषत्",
+   "n": 7,
+   "part": "part-17.json"
+  },
+  {
+   "id": "upanishhat-140",
+   "title": "ईशोपनिषत्",
+   "n": 15,
+   "part": "part-17.json"
+  },
+  {
+   "id": "upanishhat-141",
+   "title": "ईशावास्योपनिषद्",
+   "n": 1,
+   "part": "part-17.json"
+  },
+  {
+   "id": "upanishhat-142",
+   "title": "अनुगृहीतः द्रमिडोपनिषत्",
+   "n": 27,
+   "part": "part-17.json"
+  },
+  {
+   "id": "upanishhat-143",
+   "title": "य एवं वेदेत्युपनिषत् ॥ इति द्वयोपनिषत्",
+   "n": 1,
+   "part": "part-17.json"
+  },
+  {
+   "id": "upanishhat-144",
+   "title": "ध्यानबिन्दूपनिषत्",
+   "n": 106,
+   "part": "part-18.json"
+  },
+  {
+   "id": "upanishhat-145",
+   "title": "ऋग्वेदीय योगोपनिषत्",
+   "n": 57,
+   "part": "part-18.json"
+  },
+  {
+   "id": "upanishhat-146",
+   "title": "नारदोपनिषत्",
+   "n": 1,
+   "part": "part-18.json"
+  },
+  {
+   "id": "upanishhat-147",
+   "title": "नारायणपूर्वतापिनीयोपनिषत्",
+   "n": 1,
+   "part": "part-18.json"
+  },
+  {
+   "id": "upanishhat-148",
+   "title": "नारायणोत्तरतापिनीयोपनिषत्",
+   "n": 1,
+   "part": "part-18.json"
+  },
+  {
+   "id": "upanishhat-149",
+   "title": "निरालम्बोपनिषत्",
+   "n": 1,
+   "part": "part-18.json"
+  },
+  {
+   "id": "upanishhat-150",
+   "title": "निरुक्तोपनिषदि एकविंशोऽध्यायः ॥ इति निरुक्तोपनिषत्",
+   "n": 1,
+   "part": "part-18.json"
+  },
+  {
+   "id": "upanishhat-151",
+   "title": "निर्वाणोपनिषत्",
+   "n": 1,
+   "part": "part-18.json"
+  },
+  {
+   "id": "upanishhat-152",
+   "title": "पञ्चब्रह्मोपनिषत्",
+   "n": 37,
+   "part": "part-18.json"
+  },
+  {
+   "id": "upanishhat-153",
+   "title": "परमहंसपरिव्राजकोपनिषत्",
+   "n": 1,
+   "part": "part-18.json"
+  },
+  {
+   "id": "upanishhat-154",
+   "title": "परमहंसोपनिषत्",
+   "n": 5,
+   "part": "part-18.json"
+  },
+  {
+   "id": "upanishhat-155",
+   "title": "उपनिषद् खण्ड 155",
+   "n": 96,
+   "part": "part-19.json"
+  },
+  {
+   "id": "upanishhat-156",
+   "title": "उपनिषद् खण्ड 156",
+   "n": 10,
+   "part": "part-19.json"
+  },
+  {
+   "id": "upanishhat-157",
+   "title": "सामान्य उपनिषत्",
+   "n": 30,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-158",
+   "title": "प्राणाग्निहोत्रोपनिषत्",
+   "n": 11,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-159",
+   "title": "बह्वृचोपनिषत्",
+   "n": 10,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-160",
+   "title": "बाष्कलमन्त्रोपनिषत्",
+   "n": 50,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-161",
+   "title": "ॐ सहनाववत्विति शान्तिः ॥ इति ब्रह्मबिन्दूपनिषत्",
+   "n": 23,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-162",
+   "title": "ब्रह्मविद्योपनिषत्",
+   "n": 111,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-163",
+   "title": "उपनिषद् खण्ड 163",
+   "n": 5,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-164",
+   "title": "भिक्षुकोपनिषत्",
+   "n": 1,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-165",
+   "title": "मण्डलब्राह्मणोपनिषत्",
+   "n": 16,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-166",
+   "title": "महोपनिषत्",
+   "n": 541,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-167",
+   "title": "मुक्तिका उपनिषत्",
+   "n": 1,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-168",
+   "title": "उपनिषद्",
+   "n": 1,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-169",
+   "title": "मुक्तिकोपनिषत्",
+   "n": 132,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-170",
+   "title": "मुद्गलोपनिषत्",
+   "n": 12,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-171",
+   "title": "उपनिषद् खण्ड 171",
+   "n": 1,
+   "part": "part-20.json"
+  },
+  {
+   "id": "upanishhat-172",
+   "title": "सामान्य उपनिषत्",
+   "n": 100,
+   "part": "part-21.json"
+  },
+  {
+   "id": "upanishhat-173",
+   "title": "य उपनिषत्",
+   "n": 75,
+   "part": "part-21.json"
+  },
+  {
+   "id": "upanishhat-174",
+   "title": "यज्ञोपवीतोपनिषत्",
+   "n": 1,
+   "part": "part-21.json"
+  },
+  {
+   "id": "upanishhat-175",
+   "title": "याज्ञवल्क्योपनिषत्",
+   "n": 26,
+   "part": "part-21.json"
+  },
+  {
+   "id": "upanishhat-176",
+   "title": "योगकुण्डलिन्युपनिषत्",
+   "n": 173,
+   "part": "part-21.json"
+  },
+  {
+   "id": "upanishhat-177",
+   "title": "य उपनिषत्",
+   "n": 121,
+   "part": "part-21.json"
+  },
+  {
+   "id": "upanishhat-178",
+   "title": "योगतत्त्वोपनिषत्",
+   "n": 143,
+   "part": "part-21.json"
+  },
+  {
+   "id": "upanishhat-179",
+   "title": "योगराजोपनिषत्",
+   "n": 22,
+   "part": "part-21.json"
+  },
+  {
+   "id": "upanishhat-180",
+   "title": "योगशिखोपनिषत्",
+   "n": 395,
+   "part": "part-21.json"
+  },
+  {
+   "id": "upanishhat-181",
+   "title": "स्वामी हर्षानन्दकृत उपनिशत्",
+   "n": 8,
+   "part": "part-21.json"
+  },
+  {
+   "id": "upanishhat-182",
+   "title": "रोगघ्नोपनिषत्",
+   "n": 1,
+   "part": "part-21.json"
+  },
+  {
+   "id": "upanishhat-183",
+   "title": "उपनिषद् खण्ड 183",
+   "n": 26,
+   "part": "part-22.json"
+  },
+  {
+   "id": "upanishhat-184",
+   "title": "वासुदेवोपनिषत्",
+   "n": 1,
+   "part": "part-22.json"
+  },
+  {
+   "id": "upanishhat-185",
+   "title": "अथर्ववेदीय वास्तुसूत्रोपनिषत्",
+   "n": 1,
+   "part": "part-22.json"
+  },
+  {
+   "id": "upanishhat-186",
+   "title": "अथर्ववेदीय वास्तुसूत्रोपनिषद्",
+   "n": 138,
+   "part": "part-22.json"
+  },
+  {
+   "id": "upanishhat-187",
+   "title": "विश्रामोपनिषत्",
+   "n": 1,
+   "part": "part-22.json"
+  },
+  {
+   "id": "upanishhat-188",
+   "title": "शाट्यायनीयोपनिषत्",
+   "n": 38,
+   "part": "part-22.json"
+  },
+  {
+   "id": "upanishhat-189",
+   "title": "कृष्णयजुर्वेदीय शारीरकोपनिषत्",
+   "n": 9,
+   "part": "part-22.json"
+  },
+  {
+   "id": "upanishhat-190",
+   "title": "शुकरहस्योपनिषत्",
+   "n": 44,
+   "part": "part-22.json"
+  },
+  {
+   "id": "upanishhat-191",
+   "title": "शौनकोपनिषत्",
+   "n": 1,
+   "part": "part-22.json"
+  },
+  {
+   "id": "upanishhat-192",
+   "title": "संन्यासोपनिषत्",
+   "n": 107,
+   "part": "part-23.json"
+  },
+  {
+   "id": "upanishhat-193",
+   "title": "उपनिषद् खण्ड 193",
+   "n": 10,
+   "part": "part-23.json"
+  },
+  {
+   "id": "upanishhat-194",
+   "title": "सङ्कर्षणोपनिषत्",
+   "n": 1,
+   "part": "part-23.json"
+  },
+  {
+   "id": "upanishhat-195",
+   "title": "उपनिषद् खण्ड 195",
+   "n": 25,
+   "part": "part-23.json"
+  },
+  {
+   "id": "upanishhat-196",
+   "title": "उपनिषद् खण्ड 196",
+   "n": 6,
+   "part": "part-23.json"
+  },
+  {
+   "id": "upanishhat-197",
+   "title": "सामरहस्योपनिषत्",
+   "n": 1,
+   "part": "part-23.json"
+  },
+  {
+   "id": "upanishhat-198",
+   "title": "य उपनिषत्",
+   "n": 16,
+   "part": "part-23.json"
+  },
+  {
+   "id": "upanishhat-199",
+   "title": "सुदर्शनोपनिषत्",
+   "n": 1,
+   "part": "part-23.json"
+  },
+  {
+   "id": "upanishhat-200",
+   "title": "सुबालोपनिषत्",
+   "n": 16,
+   "part": "part-24.json"
+  },
+  {
+   "id": "upanishhat-201",
+   "title": "सूर्यतापिन्युपनिषत्",
+   "n": 1,
+   "part": "part-24.json"
+  },
+  {
+   "id": "upanishhat-202",
+   "title": "श्रीसौभाग्यलक्ष्म्युपनिषत्",
+   "n": 24,
+   "part": "part-24.json"
+  },
+  {
+   "id": "upanishhat-203",
+   "title": "स्वसंवेद्योपनिषत्",
+   "n": 1,
+   "part": "part-24.json"
+  },
+  {
+   "id": "upanishhat-204",
+   "title": "वेदप्रवचनं वेदप्रवचनम् ॐ पूर्णमद इति शान्तिः ॥ इति हंसोपनिषत्",
+   "n": 6,
+   "part": "part-24.json"
+  },
+  {
+   "id": "upanishhat-205",
+   "title": "क्षुरिकोपनिषत्",
+   "n": 25,
+   "part": "part-24.json"
+  },
+  {
+   "id": "upanishhat-206",
+   "title": "कृष्णपुरुषोत्तमसिद्धान्तोपनिषत्",
+   "n": 1,
+   "part": "part-24.json"
+  },
+  {
+   "id": "upanishhat-207",
+   "title": "गोपालोत्तरतापिन्युपनिषत्",
+   "n": 84,
+   "part": "part-24.json"
+  },
+  {
+   "id": "upanishhat-208",
+   "title": "गायत्र्युपनिषत्",
+   "n": 1,
+   "part": "part-24.json"
+  },
+  {
+   "id": "upanishhat-210",
+   "title": "मे अनेकोपनिषत्",
+   "n": 708,
+   "part": "part-24.json"
+  },
+  {
+   "id": "upanishhat-211",
+   "title": "उपनिषद् खण्ड 211",
+   "n": 255,
+   "part": "part-25.json"
+  },
+  {
+   "id": "upanishhat-212",
+   "title": "उपनिषद् खण्ड 212",
+   "n": 1,
+   "part": "part-25.json"
+  },
+  {
+   "id": "upanishhat-213",
+   "title": "तुलस्युपनिषत्",
+   "n": 1,
+   "part": "part-25.json"
+  },
+  {
+   "id": "upanishhat-214",
+   "title": "उपनिषद् खण्ड 214",
+   "n": 33,
+   "part": "part-25.json"
+  },
+  {
+   "id": "upanishhat-215",
+   "title": "जाबालदर्शनोपनिषत्",
+   "n": 235,
+   "part": "part-25.json"
+  },
+  {
+   "id": "upanishhat-216",
+   "title": "दत्तात्रेयोपनिषत्",
+   "n": 6,
+   "part": "part-25.json"
+  },
+  {
+   "id": "upanishhat-217",
+   "title": "उपनिषद् खण्ड 217",
+   "n": 32,
+   "part": "part-25.json"
+  },
+  {
+   "id": "upanishhat-218",
+   "title": "कमलात्मिकोपनिषत्",
+   "n": 1,
+   "part": "part-25.json"
+  },
+  {
+   "id": "upanishhat-219",
+   "title": "उपनिषद् खण्ड 219",
+   "n": 1,
+   "part": "part-25.json"
+  },
+  {
+   "id": "upanishhat-220",
+   "title": "उपनिषद् खण्ड 220",
+   "n": 1,
+   "part": "part-25.json"
+  },
+  {
+   "id": "upanishhat-221",
+   "title": "अथ कुब्जिकोपासनामृतपूर्णोपनिषत्",
+   "n": 362,
+   "part": "part-26.json"
+  },
+  {
+   "id": "upanishhat-222",
+   "title": "श्रीमहाकालसंहितायां गुह्यकाल्युपनिषत्",
+   "n": 85,
+   "part": "part-26.json"
+  },
+  {
+   "id": "upanishhat-223",
+   "title": "अथ तारोपनिषत्",
+   "n": 1,
+   "part": "part-26.json"
+  },
+  {
+   "id": "upanishhat-224",
+   "title": "अथर्ववेदीया श्रीबालोपनिषत्",
+   "n": 1,
+   "part": "part-26.json"
+  },
+  {
+   "id": "upanishhat-225",
+   "title": "नृसिंहोत्तरतापिन्युपनिषत्",
+   "n": 71,
+   "part": "part-26.json"
+  },
+  {
+   "id": "upanishhat-226",
+   "title": "उपनिषद् खण्ड 226",
+   "n": 1,
+   "part": "part-26.json"
+  },
+  {
+   "id": "upanishhat-227",
+   "title": "वराहोपनिषत्",
+   "n": 253,
+   "part": "part-26.json"
+  },
+  {
+   "id": "upanishhat-228",
+   "title": "देव्यथर्वशीर्षं",
+   "n": 28,
+   "part": "part-26.json"
+  },
+  {
+   "id": "upanishhat-229",
+   "title": "राजश्यामलारहस्योपनिषत्",
+   "n": 1,
+   "part": "part-26.json"
+  },
+  {
+   "id": "upanishhat-230",
+   "title": "उपनिषद् खण्ड 230",
+   "n": 1027,
+   "part": "part-27.json"
+  },
+  {
+   "id": "upanishhat-231",
+   "title": "अथ माण्डूक्योपनिषत्",
+   "n": 26,
+   "part": "part-27.json"
+  },
+  {
+   "id": "upanishhat-232",
+   "title": "राधोपनिषत्",
+   "n": 4,
+   "part": "part-27.json"
+  },
+  {
+   "id": "upanishhat-233",
+   "title": "दशोपनिषत्",
+   "n": 14,
+   "part": "part-27.json"
+  },
+  {
+   "id": "upanishhat-234",
+   "title": "उपनिषद् खण्ड 234",
+   "n": 17,
+   "part": "part-27.json"
+  },
+  {
+   "id": "upanishhat-235",
+   "title": "उपनिषद् खण्ड 235",
+   "n": 15,
+   "part": "part-27.json"
+  },
+  {
+   "id": "upanishhat-236",
+   "title": "उपनिषद् खण्ड 236",
+   "n": 31,
+   "part": "part-27.json"
+  },
+  {
+   "id": "upanishhat-237",
+   "title": "उपनिषद् खण्ड 237",
+   "n": 1,
+   "part": "part-27.json"
+  },
+  {
+   "id": "upanishhat-238",
+   "title": "शिवरहस्यान्तर्गते वामदेवकृतोपनिषत्",
+   "n": 90,
+   "part": "part-27.json"
+  },
+  {
+   "id": "upanishhat-239",
+   "title": "उपनिषद् खण्ड 239",
+   "n": 68,
+   "part": "part-27.json"
+  },
+  {
+   "id": "upanishhat-240",
+   "title": "उपनिषद् खण्ड 240",
+   "n": 1,
+   "part": "part-27.json"
+  },
+  {
+   "id": "upanishhat-241",
+   "title": "शिवरहस्यान्तर्गते माहेश्वराख्ये देवकृतोपनिषत्",
+   "n": 22,
+   "part": "part-27.json"
+  },
+  {
+   "id": "upanishhat-242",
+   "title": "शिवरहस्यान्तर्गते माहेश्वराख्ये देवकृतोपनिषत्",
+   "n": 39,
+   "part": "part-27.json"
+  },
+  {
+   "id": "upanishhat-243",
+   "title": "शिवरहस्यान्तर्गते ऋभुप्रोक्तं शाङ्करसूत्रविज्ञानमेवमध्यात्मनिर्णयं",
+   "n": 1,
+   "part": "part-27.json"
+  },
+  {
+   "id": "upanishhat-244",
+   "title": "उपनिषद् खण्ड 244",
+   "n": 447,
+   "part": "part-28.json"
+  },
+  {
+   "id": "upanishhat-245",
+   "title": "सरस्वतीरहस्योपनिषत्",
+   "n": 47,
+   "part": "part-28.json"
+  }
+ ]
+}
