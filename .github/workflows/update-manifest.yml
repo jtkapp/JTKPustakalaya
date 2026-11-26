@@ -1,0 +1,88 @@
+name: manifest bytes आफैं मिलाउने
+
+# कुनै part-NN.json मा परिवर्तन push भएपछि, त्यस सङ्ग्रहको manifest.json (र index.json) मा
+# "bytes" आफैं नयाँ साइजले बदल्छ। अब हातले wc -c गरेर मिलाउन पर्दैन।
+on:
+  push:
+    branches: [main]
+    paths:
+      - "*/part-*.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-manifest
+  cancel-in-progress: false
+
+jobs:
+  fix-bytes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: bytes मिलाउने
+        shell: python
+        run: |
+          import glob, json, os
+
+          def dump(path, obj):
+              with open(path, "w", encoding="utf-8", newline="\n") as f:
+                  json.dump(obj, f, ensure_ascii=False, indent=1)
+                  f.write("\n")
+
+          totals = {}
+          for mf in sorted(glob.glob("*/manifest.json")):
+              d = os.path.dirname(mf)
+              with open(mf, encoding="utf-8") as f:
+                  man = json.load(f)
+              changed, total = False, 0
+              for p in man.get("parts", []):
+                  path = os.path.join(d, p["file"])
+                  if not os.path.isfile(path):
+                      print("⚠ फाइल भेटिएन:", path)
+                      total += p.get("bytes", 0)
+                      continue
+                  size = os.path.getsize(path)
+                  total += size
+                  if p.get("bytes") != size:
+                      print(f"{path}: {p.get('bytes')} -> {size}")
+                      p["bytes"] = size
+                      changed = True
+              if changed:
+                  dump(mf, man)
+              totals[man.get("id", d)] = total
+
+          # index.json मा सङ्ग्रहको जम्मा साइज (देखाउन मात्र)
+          if os.path.isfile("index.json"):
+              with open("index.json", encoding="utf-8") as f:
+                  idx = json.load(f)
+              ichanged = False
+              def walk(o):
+                  global ichanged
+                  if isinstance(o, dict):
+                      cid = o.get("id")
+                      if cid in totals and "bytes" in o and "count" in o and o["bytes"] != totals[cid]:
+                          print(f"index {cid}: {o['bytes']} -> {totals[cid]}")
+                          o["bytes"] = totals[cid]
+                          ichanged = True
+                      for v in o.values():
+                          walk(v)
+                  elif isinstance(o, list):
+                      for v in o:
+                          walk(v)
+              walk(idx)
+              if ichanged:
+                  dump("index.json", idx)
+
+      - name: परिवर्तन भए commit गर्ने
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "auto: manifest bytes अपडेट"
+            git push
+          else
+            echo "केही बदल्नु परेन"
+          fi
