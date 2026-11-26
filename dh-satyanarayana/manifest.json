@@ -1,0 +1,54 @@
+{
+ "id": "dh-satyanarayana",
+ "title": "श्रीसत्यनारायण व्रतकथा",
+ "parts": [
+  {
+   "file": "part-01.json",
+   "bytes": 94653
+  }
+ ],
+ "pathas": [
+  {
+   "id": "vk-01-a1",
+   "title": "प्रथमोऽध्यायः",
+   "sub": "",
+   "tag": "अध्याय",
+   "part": "part-01.json"
+  },
+  {
+   "id": "vk-01-a2",
+   "title": "द्वितीयोऽध्यायः",
+   "sub": "",
+   "tag": "अध्याय",
+   "part": "part-01.json"
+  },
+  {
+   "id": "vk-01-a3",
+   "title": "तृतीयोऽध्यायः",
+   "sub": "",
+   "tag": "अध्याय",
+   "part": "part-01.json"
+  },
+  {
+   "id": "vk-01-a4",
+   "title": "चतुर्थोऽध्यायः",
+   "sub": "",
+   "tag": "अध्याय",
+   "part": "part-01.json"
+  },
+  {
+   "id": "vk-01-a5",
+   "title": "पञ्चमोऽध्यायः",
+   "sub": "",
+   "tag": "अध्याय",
+   "part": "part-01.json"
+  },
+  {
+   "id": "vk-01-aarati",
+   "title": "आरती",
+   "sub": "",
+   "tag": "आरती",
+   "part": "part-01.json"
+  }
+ ]
+}

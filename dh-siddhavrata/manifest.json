@@ -1,0 +1,19 @@
+{
+ "id": "dh-siddhavrata",
+ "title": "रुद्रयामलोक्तं सिद्धव्रतमाहात्म्यम्",
+ "parts": [
+  {
+   "file": "part-01.json",
+   "bytes": 37055
+  }
+ ],
+ "pathas": [
+  {
+   "id": "siddhavrata-mahatmya-1",
+   "title": "रुद्रयामलोक्तं सिद्धव्रतमाहात्म्यम्",
+   "sub": "७० श्लोक",
+   "tag": "माहात्म्य",
+   "part": "part-01.json"
+  }
+ ]
+}

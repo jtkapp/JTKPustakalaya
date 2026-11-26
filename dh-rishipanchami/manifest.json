@@ -1,0 +1,47 @@
+{
+ "id": "dh-rishipanchami",
+ "title": "ऋषिपञ्चमी व्रतकथा",
+ "parts": [
+  {
+   "file": "part-01.json",
+   "bytes": 40417
+  }
+ ],
+ "pathas": [
+  {
+   "id": "rp-katha-prashna",
+   "title": "युधिष्ठिरको प्रश्न र रजस्वला-सम्पर्कको दोष",
+   "sub": "",
+   "tag": "व्रतकथा",
+   "part": "part-01.json"
+  },
+  {
+   "id": "rp-katha-sumitra",
+   "title": "सुमित्र–जयश्रीको कथा र पुनर्जन्म",
+   "sub": "",
+   "tag": "व्रतकथा",
+   "part": "part-01.json"
+  },
+  {
+   "id": "rp-katha-shraddha",
+   "title": "श्राद्धको दिन, कुकुर्नी र गोरुको संवाद",
+   "sub": "",
+   "tag": "व्रतकथा",
+   "part": "part-01.json"
+  },
+  {
+   "id": "rp-katha-rishi",
+   "title": "सप्तर्षिको उत्तर र व्रतको विधि",
+   "sub": "",
+   "tag": "व्रतकथा",
+   "part": "part-01.json"
+  },
+  {
+   "id": "rp-katha-phala",
+   "title": "आमाबाबुको मुक्ति र व्रतको फल",
+   "sub": "",
+   "tag": "व्रतकथा",
+   "part": "part-01.json"
+  }
+ ]
+}

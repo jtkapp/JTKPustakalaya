@@ -1,0 +1,782 @@
+{
+ "id": "dh-aarati",
+ "title": "आरतीसङ्ग्रह",
+ "parts": [
+  {
+   "file": "part-01.json",
+   "bytes": 233371
+  }
+ ],
+ "pathas": [
+  {
+   "id": "aarati-sangraha-2",
+   "title": "ॐ जय जगदीशहरे नेपाली",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-11",
+   "title": "ॐ जय जगदीश हरे",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-25",
+   "title": "आरती श्री रामायण जी की",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-50",
+   "title": "आरती श्री जगदीशजी",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-51",
+   "title": "श्री लक्ष्मीनारायण आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-52",
+   "title": "भगवान बदरीनाथ आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-53",
+   "title": "आरती श्री सत्यनारायणजी",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-54",
+   "title": "श्री पुरुषोत्तम देव की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-58",
+   "title": "श्री नृसिंह भगवान की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-59",
+   "title": "आरती श्री नृसिंह भगवान जी की",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-63",
+   "title": "आरती श्री धन्वन्तरि जी की",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-65",
+   "title": "आरती श्री ब्रह्मा जी",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-109",
+   "title": "श्री मायातीत विष्णु जी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-3",
+   "title": "जय गणेश जय गणेश आरति",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-12",
+   "title": "गणेश आरति",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-13",
+   "title": "जय गणेश गणनाथ दयानिधे",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-26",
+   "title": "श्री गणेशजी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-27",
+   "title": "आरती गजबदन विनायक की",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-28",
+   "title": "आरती श्री गणपति जी",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-4",
+   "title": "मंगल आरति",
+   "sub": "एकै खण्ड",
+   "tag": "भागवत",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-14",
+   "title": "भागवतजीको शरणमा परौ",
+   "sub": "एकै खण्ड",
+   "tag": "भागवत",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-15",
+   "title": "श्रीभागवत भगबानकी है आरति",
+   "sub": "एकै खण्ड",
+   "tag": "भागवत",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-16",
+   "title": "आरति अति पावन पूरानकी",
+   "sub": "एकै खण्ड",
+   "tag": "भागवत",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-32",
+   "title": "आरती कुंजबिहारी की, श्री गिरिधर कृष्ण मुरारी की",
+   "sub": "एकै खण्ड",
+   "tag": "भागवत",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-33",
+   "title": "श्री बाँकेबिहारी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "भागवत",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-34",
+   "title": "श्री गोपाल की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "भागवत",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-35",
+   "title": "भगवान नटवर आरती",
+   "sub": "एकै खण्ड",
+   "tag": "भागवत",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-36",
+   "title": "आरती श्रीकृष्ण कन्हैया की",
+   "sub": "एकै खण्ड",
+   "tag": "भागवत",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-37",
+   "title": "भगवान गिरिधारी आरती",
+   "sub": "एकै खण्ड",
+   "tag": "भागवत",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-38",
+   "title": "श्री यशोदालाल आरती",
+   "sub": "एकै खण्ड",
+   "tag": "भागवत",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-60",
+   "title": "आरती श्री गोवर्धन महाराज की",
+   "sub": "एकै खण्ड",
+   "tag": "भागवत",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-68",
+   "title": "श्री गिरिराज आरती",
+   "sub": "एकै खण्ड",
+   "tag": "भागवत",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-97",
+   "title": "श्री खाटू श्यामजी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "भागवत",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-5",
+   "title": "जयशिव शंकर शंभो आरति",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-6",
+   "title": "जय शिव ओंकारा",
+   "sub": "८ पद",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-7",
+   "title": "जय गङ्गाधर",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-45",
+   "title": "शिवजी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-46",
+   "title": "श्री शिवशंकरजी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-47",
+   "title": "भगवान शंकर आरती",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-48",
+   "title": "भगवान गङ्गाधर आरती",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-49",
+   "title": "भगवान कैलासवासी आरती",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-8",
+   "title": "जय अंबे गौरी",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-9",
+   "title": "जय दुर्गे अम्बे",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-10",
+   "title": "मा जग जनानि जयजय",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-18",
+   "title": "लक्ष्मीजी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-20",
+   "title": "ॐ जय भैरव देवा",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-21",
+   "title": "मनसा देवीजी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-22",
+   "title": "अम्बा आरती",
+   "sub": "५ पद",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-23",
+   "title": "भगवान महादेव आरती",
+   "sub": "११ पद",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-69",
+   "title": "आरती श्री अम्बा जी",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-70",
+   "title": "आरती श्री लक्ष्मी जी",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-71",
+   "title": "आरती श्री सन्तोषी माँ",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-72",
+   "title": "आरती श्री सरस्वती जी",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-73",
+   "title": "आरती श्री वैष्णो देवी",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-74",
+   "title": "आरती श्री गंगाजी",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-75",
+   "title": "गंगा माता आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-76",
+   "title": "आरती श्री दुर्गाजी",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-77",
+   "title": "आरती अहोई माता की",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-79",
+   "title": "श्री पार्वती माता की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-80",
+   "title": "आरती ललिता माता की",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-81",
+   "title": "श्री तुलसी जी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-82",
+   "title": "श्री गायत्रीजी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-83",
+   "title": "श्री शीतला माता की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-85",
+   "title": "श्री विन्ध्येश्वरी माता जी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-86",
+   "title": "श्री महाकाली माता जी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-87",
+   "title": "श्री राधा माता जी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-88",
+   "title": "देवी राधिका आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-89",
+   "title": "श्री अन्नपूर्णा माता जी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-90",
+   "title": "श्री बगलामुखी माता जी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-91",
+   "title": "श्री नर्मदा माता जी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-92",
+   "title": "श्री शाकम्भरी माता जी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-93",
+   "title": "श्री शारदा माता जी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-96",
+   "title": "यमुना माता आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-106",
+   "title": "श्री राणी सती जी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-17",
+   "title": "जय सूर्य भगवान",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-19",
+   "title": "श्री शनिदेव जी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-56",
+   "title": "आरती श्री सूर्य जी",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-57",
+   "title": "शनिदेव की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-110",
+   "title": "श्री बृहस्पति देव जी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-1",
+   "title": "पाञ्चायन देवता आरती",
+   "sub": "५ पद",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-24",
+   "title": "आरति किजै हनुमान ललाकि",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-29",
+   "title": "आरती श्री हनुमानजी",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-30",
+   "title": "श्री बालाजी आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-31",
+   "title": "श्री पवनसुत हनुमान आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-39",
+   "title": "आरती श्री रामचन्द्रजी",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-40",
+   "title": "श्री रघुवर आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-41",
+   "title": "श्री राम रघुवीर आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-42",
+   "title": "श्री सीताराम आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-43",
+   "title": "श्री जानकीनाथ आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-44",
+   "title": "श्री राम रघुपति आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-55",
+   "title": "श्री रामायणजी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-61",
+   "title": "श्री चित्रगुप्त जी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-62",
+   "title": "आरती श्री कुबेर जी की",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-64",
+   "title": "श्री विश्वकर्मा आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-66",
+   "title": "श्री भैरव आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-67",
+   "title": "श्री परशुराम आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-78",
+   "title": "एकादशी माता की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-84",
+   "title": "श्री गौमाताजी की आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-94",
+   "title": "जानकी माता आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-95",
+   "title": "सीता माता आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-98",
+   "title": "श्री रामदेव आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-99",
+   "title": "श्री साईं बाबा आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-100",
+   "title": "श्री महावीर आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-101",
+   "title": "आरती श्री रविदास जी की",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-102",
+   "title": "बाबा गंगाराम आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-103",
+   "title": "आरती प्रेतराज की कीजै",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-104",
+   "title": "गोरख आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-105",
+   "title": "आरती श्री जाहरवीर जी की",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-107",
+   "title": "श्रीमद भगवद गीता आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "aarati-sangraha-108",
+   "title": "श्री पितर आरती",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  }
+ ]
+}

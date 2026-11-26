@@ -288,6 +288,181 @@
      "bytes": 849458
     }
    ]
+  },
+  {
+   "id": "dharmic",
+   "title": "धार्मिक सङ्ग्रह",
+   "emoji": "📖",
+   "collections": [
+    {
+     "id": "dh-aarati",
+     "title": "आरतीसङ्ग्रह",
+     "emoji": "🪔",
+     "group": "आरती, भजन र चालीसा",
+     "count": 110,
+     "bytes": 233371
+    },
+    {
+     "id": "dh-bhajan",
+     "title": "भजनसङ्ग्रह",
+     "emoji": "🎶",
+     "group": "आरती, भजन र चालीसा",
+     "count": 67,
+     "bytes": 86330
+    },
+    {
+     "id": "dh-chalisa",
+     "title": "चालीसासङ्ग्रह",
+     "emoji": "🙏",
+     "group": "आरती, भजन र चालीसा",
+     "count": 20,
+     "bytes": 218840
+    },
+    {
+     "id": "dh-durga-saptashati",
+     "title": "श्रीदुर्गासप्तशती",
+     "emoji": "🔱",
+     "group": "पुराण",
+     "count": 37,
+     "bytes": 643248
+    },
+    {
+     "id": "dh-garuda-purana",
+     "title": "गरुडपुराण-सारोद्धार",
+     "emoji": "🦅",
+     "group": "पुराण",
+     "count": 17,
+     "bytes": 752031
+    },
+    {
+     "id": "dh-bhagavata",
+     "title": "श्रीमद्भागवत महापुराण",
+     "emoji": "🦚",
+     "group": "पुराण",
+     "count": 345,
+     "bytes": 11485965
+    },
+    {
+     "id": "dh-ekadashi-katha",
+     "title": "एकादशी व्रत कथा",
+     "emoji": "🌙",
+     "group": "व्रतकथा",
+     "count": 25,
+     "bytes": 783665
+    },
+    {
+     "id": "dh-haritalika",
+     "title": "श्रीहरितालिका व्रतकथा",
+     "emoji": "🌺",
+     "group": "व्रतकथा",
+     "count": 5,
+     "bytes": 43997
+    },
+    {
+     "id": "dh-rishipanchami",
+     "title": "ऋषिपञ्चमी व्रतकथा",
+     "emoji": "🪷",
+     "group": "व्रतकथा",
+     "count": 5,
+     "bytes": 40417
+    },
+    {
+     "id": "dh-satyanarayana",
+     "title": "श्रीसत्यनारायण व्रतकथा",
+     "emoji": "🌼",
+     "group": "व्रतकथा",
+     "count": 6,
+     "bytes": 94653
+    },
+    {
+     "id": "dh-siddhavrata",
+     "title": "रुद्रयामलोक्तं सिद्धव्रतमाहात्म्यम्",
+     "emoji": "🕉️",
+     "group": "व्रतकथा",
+     "count": 1,
+     "bytes": 37055
+    },
+    {
+     "id": "dh-swasthani",
+     "title": "स्वस्थानी व्रत कथा",
+     "emoji": "🌸",
+     "group": "व्रतकथा",
+     "count": 33,
+     "bytes": 659773
+    },
+    {
+     "id": "dh-rigveda",
+     "title": "ऋग्वेद संहिता",
+     "emoji": "🔥",
+     "group": "वेद, उपनिषद् र गीता",
+     "count": 1028,
+     "bytes": 3843617
+    },
+    {
+     "id": "dh-shukla-yajurveda",
+     "title": "शुक्ल यजुर्वेद संहिता",
+     "emoji": "🔥",
+     "group": "वेद, उपनिषद् र गीता",
+     "count": 40,
+     "bytes": 2451310
+    },
+    {
+     "id": "dh-rudrashtadhyayi",
+     "title": "रुद्राष्टाध्यायी",
+     "emoji": "🔱",
+     "group": "वेद, उपनिषद् र गीता",
+     "count": 10,
+     "bytes": 255679
+    },
+    {
+     "id": "dh-navagraha-rudri",
+     "title": "नवग्रह षडङ्गरुद्री",
+     "emoji": "🪐",
+     "group": "वेद, उपनिषद् र गीता",
+     "count": 13,
+     "bytes": 356548
+    },
+    {
+     "id": "dh-panchadev-atharvashirsha",
+     "title": "पञ्चदेव अथर्वशीर्ष सङ्ग्रह",
+     "emoji": "🕉️",
+     "group": "वेद, उपनिषद् र गीता",
+     "count": 12,
+     "bytes": 76388
+    },
+    {
+     "id": "dh-paraskara-grihyasutra",
+     "title": "पारस्करगृह्यसूत्रम्",
+     "emoji": "📜",
+     "group": "वेद, उपनिषद् र गीता",
+     "count": 58,
+     "bytes": 209880
+    },
+    {
+     "id": "dh-stotra-sangraha",
+     "title": "स्तोत्रसङ्ग्रह",
+     "emoji": "🌟",
+     "group": "विशेष स्तोत्र",
+     "count": 32,
+     "bytes": 364892
+    },
+    {
+     "id": "dh-shani-mrityunjaya",
+     "title": "श्री महाकाल शनि मृत्युञ्जय स्तोत्रम्",
+     "emoji": "🌟",
+     "group": "विशेष स्तोत्र",
+     "count": 5,
+     "bytes": 27111
+    },
+    {
+     "id": "dh-vishnu-sahasranama",
+     "title": "श्रीविष्णुसहस्रनामस्तोत्रम्",
+     "emoji": "🪷",
+     "group": "विशेष स्तोत्र",
+     "count": 2,
+     "bytes": 54357
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,47 @@
+{
+ "id": "dh-shani-mrityunjaya",
+ "title": "श्री महाकाल शनि मृत्युञ्जय स्तोत्रम्",
+ "parts": [
+  {
+   "file": "part-01.json",
+   "bytes": 27111
+  }
+ ],
+ "pathas": [
+  {
+   "id": "sms-1",
+   "title": "उपोद्घात",
+   "sub": "१० श्लोक",
+   "tag": "खण्ड",
+   "part": "part-01.json"
+  },
+  {
+   "id": "sms-2",
+   "title": "विनियोग",
+   "sub": "गद्य",
+   "tag": "खण्ड",
+   "part": "part-01.json"
+  },
+  {
+   "id": "sms-3",
+   "title": "न्यासध्यान",
+   "sub": "५९ श्लोक",
+   "tag": "खण्ड",
+   "part": "part-01.json"
+  },
+  {
+   "id": "sms-4",
+   "title": "स्तोत्र",
+   "sub": "१८ श्लोक",
+   "tag": "खण्ड",
+   "part": "part-01.json"
+  },
+  {
+   "id": "sms-5",
+   "title": "फलश्रुति",
+   "sub": "१४ श्लोक",
+   "tag": "खण्ड",
+   "part": "part-01.json"
+  }
+ ]
+}

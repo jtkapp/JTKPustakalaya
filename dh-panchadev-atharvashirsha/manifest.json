@@ -1,0 +1,96 @@
+{
+ "id": "dh-panchadev-atharvashirsha",
+ "title": "पञ्चदेव अथर्वशीर्ष सङ्ग्रह",
+ "parts": [
+  {
+   "file": "part-01.json",
+   "bytes": 76388
+  }
+ ],
+ "pathas": [
+  {
+   "id": "panchadev-atharvashirsha-1",
+   "title": "शान्तिपाठ",
+   "sub": "एकै खण्ड",
+   "tag": "सामान्य",
+   "part": "part-01.json"
+  },
+  {
+   "id": "panchadev-atharvashirsha-2",
+   "title": "श्रीगणपत्यथर्वशीर्षम् (गणेश अथर्वशीर्ष)",
+   "sub": "१४ मन्त्र",
+   "tag": "गणेश",
+   "part": "part-01.json"
+  },
+  {
+   "id": "panchadev-atharvashirsha-7",
+   "title": "वैदिक गणेश-स्तवन",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "part": "part-01.json"
+  },
+  {
+   "id": "panchadev-atharvashirsha-3",
+   "title": "श्रीशिवाथर्वशीर्षम् (शिव अथर्वशीर्ष / अथर्वशिर उपनिषद्)",
+   "sub": "७ मन्त्र",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "panchadev-atharvashirsha-8",
+   "title": "रुद्र-स्तवन (श्रीरुद्राध्याय)",
+   "sub": "१६ मन्त्र",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "panchadev-atharvashirsha-4",
+   "title": "श्रीदेव्यथर्वशीर्षम् (देवी अथर्वशीर्ष)",
+   "sub": "२६ मन्त्र",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "panchadev-atharvashirsha-9",
+   "title": "श्रीसूक्तम्",
+   "sub": "१६ मन्त्र",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "panchadev-atharvashirsha-5",
+   "title": "श्रीमन्नारायणाथर्वशीर्षम् (विष्णु / नारायण अथर्वशीर्ष)",
+   "sub": "५ मन्त्र",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "panchadev-atharvashirsha-10",
+   "title": "पुरुषसूक्तम्",
+   "sub": "१६ मन्त्र",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "panchadev-atharvashirsha-6",
+   "title": "श्रीसूर्याथर्वशीर्षम् (सूर्य अथर्वशीर्ष)",
+   "sub": "एकै खण्ड",
+   "tag": "सूर्य",
+   "part": "part-01.json"
+  },
+  {
+   "id": "panchadev-atharvashirsha-11",
+   "title": "सूर्यसूक्तम्",
+   "sub": "१७ मन्त्र",
+   "tag": "सूर्य",
+   "part": "part-01.json"
+  },
+  {
+   "id": "panchadev-atharvashirsha-12",
+   "title": "पञ्चदेव वैदिक आरती (मन्त्रपुष्पाञ्जलि)",
+   "sub": "एकै खण्ड",
+   "tag": "पञ्चदेव",
+   "part": "part-01.json"
+  }
+ ]
+}

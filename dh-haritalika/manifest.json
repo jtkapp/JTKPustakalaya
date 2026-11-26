@@ -1,0 +1,47 @@
+{
+ "id": "dh-haritalika",
+ "title": "श्रीहरितालिका व्रतकथा",
+ "parts": [
+  {
+   "file": "part-01.json",
+   "bytes": 43997
+  }
+ ],
+ "pathas": [
+  {
+   "id": "ht-katha-1",
+   "title": "पार्वतीको प्रश्न र व्रतको महिमा",
+   "sub": "",
+   "tag": "कथा",
+   "part": "part-01.json"
+  },
+  {
+   "id": "ht-katha-2",
+   "title": "पार्वतीको तपस्या र नारदको प्रस्ताव",
+   "sub": "",
+   "tag": "कथा",
+   "part": "part-01.json"
+  },
+  {
+   "id": "ht-katha-3",
+   "title": "वनवास, हिमालयको खोजी र बालुवाको लिङ्ग",
+   "sub": "",
+   "tag": "कथा",
+   "part": "part-01.json"
+  },
+  {
+   "id": "ht-katha-4",
+   "title": "वरदान, विवाह र व्रतको नाम",
+   "sub": "",
+   "tag": "कथा",
+   "part": "part-01.json"
+  },
+  {
+   "id": "ht-katha-5",
+   "title": "व्रतको विधि र फल",
+   "sub": "",
+   "tag": "कथा",
+   "part": "part-01.json"
+  }
+ ]
+}

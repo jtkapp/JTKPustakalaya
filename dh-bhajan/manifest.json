@@ -1,0 +1,481 @@
+{
+ "id": "dh-bhajan",
+ "title": "भजनसङ्ग्रह",
+ "parts": [
+  {
+   "file": "part-01.json",
+   "bytes": 86330
+  }
+ ],
+ "pathas": [
+  {
+   "id": "bhajan-sangraha-1",
+   "title": "गणपति भक्त लगाउ पार",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-2",
+   "title": "श्री सूर्य भगवानको ध्यान गरौँ रे",
+   "sub": "एकै खण्ड",
+   "tag": "सूर्य",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-3",
+   "title": "दुर्गती नाशिनी दुर्गा जय जय",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-55",
+   "title": "देवी दर्शन देऊ मलाई, माता दर्शन देऊ मलाई",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-59",
+   "title": "दियो बाली साँझको",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-67",
+   "title": "दुर्गे देउ भक्ति मलाई (भक्तराज आचार्य)",
+   "sub": "एकै खण्ड",
+   "tag": "दुर्गा",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-4",
+   "title": "पहाडको फेदी काठमाण्डौँ शहर पशुपति मन्दिरमा",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-10",
+   "title": "जय जय हो भोले बाबा हर बमं बमं",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-16",
+   "title": "भोले बाबा मेरो दुःख कष्ट मेटाइदेउ",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-37",
+   "title": "शिरमाथि शिवजीको चन्द्र झलल",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-53",
+   "title": "डम डम डमरु बज्यो मरो भोले बाबाको",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-5",
+   "title": "नारायण नारायण नारायण बोल चेतन नारायण बोल",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-6",
+   "title": "तन मन वचनले प्रभु नाम गाउँ",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-14",
+   "title": "साना साना हरि आए वनी वामन",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-19",
+   "title": "धोका होला धोका होला धोका होला है",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-39",
+   "title": "नारायण हो ईश्वरको प्यारो नाम",
+   "sub": "एकै खण्ड",
+   "tag": "विष्णु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-7",
+   "title": "सिताराम बन्दना, राधे श्याम बन्दना",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-11",
+   "title": "रामलाई अघि म लाउँलाा रामकै पछि म जाउँला राम रााम भन्दा भन्दै...",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-26",
+   "title": "जनकपुरमा राम आए दुलाहा बनेर",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-51",
+   "title": "सागर बरु सुकेर गई जाला...",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-8",
+   "title": "गुरु विना ज्ञान कैलै मिल्दैन",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-9",
+   "title": "जय रामानुज जय रामानुज",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-34",
+   "title": "गुरुकै चरण मेरो काशी प्रयाग..",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-58",
+   "title": "श्रीगुरुदेव कृपानिधि स्वामी",
+   "sub": "एकै खण्ड",
+   "tag": "गुरु",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-12",
+   "title": "द्वारकामा कृष्ण आए बेहुला बनेर",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-13",
+   "title": "छम छम नाचिदेउ गोपीनी..",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-15",
+   "title": "हे कृष्ण मलाई मिठो वंशी सुनाई देउन",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-18",
+   "title": "वृन्दावनको डाँडैडाडा चले होलान् गोपिनी",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-20",
+   "title": "आउन कृष्ण बसन हाम्रो मनैमा",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-21",
+   "title": "कति राम्रो त्यो वृन्दावन सललल बगेकी यमुना",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-22",
+   "title": "नाचन मोहन आगनमा छुनुमुनु छुनुमुनु गर्दै",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-24",
+   "title": "आउ कनैया आउ मुरारी तिम्रो घरमा आएँ सुदामा भिखारी..",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-25",
+   "title": "कृष्ण गए वनैमा राधिकालाई सम्झि मनैमा..",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-27",
+   "title": "कृष्ण तिमि एक्लै नआउनु...",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-28",
+   "title": "हे कृष्ण हजुरले त माया मार्नु भो..",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-31",
+   "title": "वृन्दावन सहर भनेर हो कि..",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-32",
+   "title": "हे राधा नाचिदेउ फिरिरि.... भजन गर्न लेट भयो....",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-33",
+   "title": "वृन्दावनको पाखामा..",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-35",
+   "title": "हृदयमा कृष्णको फोटो छ..",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-36",
+   "title": "बाँसुरीको धुन सुनेर, आयौ हामि दैलो थुनेर..",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-40",
+   "title": "धुन बज्यो धुन बज्यो पक्कै कृष्ण हुन्",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-41",
+   "title": "नन्द घर आनन्द भयो",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-42",
+   "title": "सके त भगवान फुल चढाउला",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-43",
+   "title": "रातो फरिया राधाले",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-44",
+   "title": "चरी बनी उडौ उडौ लाग्छ मनैमा",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-46",
+   "title": "बित्यो जीवन यसै लहै लहैमा",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-47",
+   "title": "नौनी माखन चोरेको किन",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-48",
+   "title": "हाम्रो घर आउ है कन्हैया",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-50",
+   "title": "वंशि मिठो कृष्णले बजाको",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-52",
+   "title": "खोजुँ म तिमीलाई कहाँ? मुरली वाले",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-54",
+   "title": "कृष्णको महिमा गाइरहनु होला-",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-56",
+   "title": "हे कृष्ण आइदेउ न छम छम नाचेर",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-57",
+   "title": "ए तुलसी आँगनमा रोपौला",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-66",
+   "title": "बजीरहेछ बाँसुरी.. (भक्तराज आचार्य)",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-30",
+   "title": "गए गए हनुमानजी समुद्र पारिको लंका पुरीमा..",
+   "sub": "एकै खण्ड",
+   "tag": "हनुमान",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-62",
+   "title": "मिलिजुली गाउँ आरती हरिको",
+   "sub": "एकै खण्ड",
+   "tag": "आरती",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-63",
+   "title": "पूर्व दिशामा जय जयकार,",
+   "sub": "एकै खण्ड",
+   "tag": "आरती",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-17",
+   "title": "जस्‌ले दिन्छ धर्मको नाममा..",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-23",
+   "title": "सुख छैन चौरासी जुनिमा मरेपछि नरक भूमिमा",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-29",
+   "title": "छेक्यो मलाई माया जालैले पुण्य नभै लान्छ कि त पापि कालै ले..",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-38",
+   "title": "पुराण लाग्यो प्रभु तिम्रो मन्दिरैमा, भजन लाग्यो प्रभु तिम्रो मन्दिरैमा",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-45",
+   "title": "कलि कालैमा नि नारायण",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-49",
+   "title": "छाडी जानु छ पिंजडा",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-60",
+   "title": "कुन मन्दिरमा जान्छौ यात्री",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-61",
+   "title": "गोविन्द जय जय (नेपाली)",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-64",
+   "title": "प्रयास हाम्रो उचाल भगवन् (भक्तराज आचार्य)",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  },
+  {
+   "id": "bhajan-sangraha-65",
+   "title": "न धन त्यागेर त्यागि हुन्छ (भक्तराज आचार्य)",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  }
+ ]
+}

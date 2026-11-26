@@ -1,0 +1,152 @@
+{
+ "id": "dh-chalisa",
+ "title": "चालीसासङ्ग्रह",
+ "parts": [
+  {
+   "file": "part-01.json",
+   "bytes": 218840
+  }
+ ],
+ "pathas": [
+  {
+   "id": "chalisa-sangraha-1",
+   "title": "बजरङ्ग बाण",
+   "sub": "एकै खण्ड",
+   "tag": "हनुमान",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-7",
+   "title": "श्री हनुमान चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "हनुमान",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-8",
+   "title": "संस्कृत हनुमान चालीसा",
+   "sub": "४० पद",
+   "tag": "हनुमान",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-2",
+   "title": "श्री भैरव चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-17",
+   "title": "शिव चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "शिव",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-3",
+   "title": "विन्ध्येश्वरी चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-4",
+   "title": "श्री दुर्गा चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-6",
+   "title": "श्री गायत्री चालीसा",
+   "sub": "४० पद",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-10",
+   "title": "श्री लक्ष्मी चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-11",
+   "title": "श्री मनसा देवी स्तुति",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-13",
+   "title": "सङ्कटा चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-14",
+   "title": "श्री सन्तोषी माता चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-15",
+   "title": "श्री शाकम्भरी चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-18",
+   "title": "शीतला चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "देवी",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-5",
+   "title": "श्री गणेश चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "गणेश",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-9",
+   "title": "श्रीकृष्ण चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "कृष्ण",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-12",
+   "title": "श्री राम चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "राम",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-19",
+   "title": "श्रीरामचरितमानस - सुन्दरकाण्ड",
+   "sub": "६६ पद",
+   "tag": "राम",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-16",
+   "title": "श्री शनि चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "नवग्रह",
+   "part": "part-01.json"
+  },
+  {
+   "id": "chalisa-sangraha-20",
+   "title": "विश्वकर्मा चालीसा",
+   "sub": "एकै खण्ड",
+   "tag": "विविध",
+   "part": "part-01.json"
+  }
+ ]
+}
